@@ -1,6 +1,6 @@
 ---
 title: 'Reflections on Pacman AI Competition'
-date: 2021-02-16
+date: 2021-02-18
 permalink: /posts/2021/02/reflections_on_pacman_ai_competition/
 tags:
   - machinelearning
@@ -8,7 +8,7 @@ tags:
   - pacman
 ---
 
-Towards the end of last year I had the pleasure to compete in the Pacman CTF competition that was run as part of the COMP90054 course during Semester 2 2020 at the University of Melbourne (the contest is described in further detail [here](http://ai.berkeley.edu/contest.html)).
+Towards the end of last year, I had the pleasure to compete in the Pacman CTF competition that was run as part of the COMP90054 course during Semester 2 2020 at the University of Melbourne (the contest was originally designed by Berkley and is described in further detail [here](http://ai.berkeley.edu/contest.html)).
 
 In accordance with the *COMP90054 Code of Honour*, we are not allowed to release the code that we used for our agents, but nonethless I would like to use this blog post to discuss which approaches we considered and which we found to perform best in the competition. 
 
@@ -18,12 +18,8 @@ If you are interested in further details, please refer to the Wiki that is part 
 At the beginning of the competition, we experimented with a variety of techniques such as **classical planning with PDDL** or **value iteration using a model-based MDP**. In the interest of time (the competition took approx. 6 weeks), we decided to settle on two main approaches with which we competed in the tournament and achieved satisfying results (top 10% position in the leaderboard).
 
 These two approaches were:
-<b>
-1. Approximate Q-Learning
-</b>
-<b>
-2. Behaviour Trees with A* Heuristic Search
-</b>
+**1. Approximate Q-Learning**
+**2. Behaviour Trees with A-Star Heuristic Search**
 
 In the remainder of this blog post, I would like to talk about the various advantages and disadvantages of both techniques.
 
@@ -58,6 +54,54 @@ The motivation for this approach was to produce approximate Q-learning agent(s) 
 - Requires complex feature extraction, the success of which is determined purely by trial and error; domain-knowledge; research papers; intuition; etc.
   - Additionally, this reduces the so-called "generality" of our agent, as human-input in the form of domain-knowledge is required to implement approximate Q-learning.
 - The accuracy of rewards is reduced as the true/optimal reward function may not be linearly formed within the features extracted.
+
+### Implementation
+
+#### Behaviour Tree:
+
+![Behaviour Tree](https://user-images.githubusercontent.com/50134351/96994136-fa538080-1577-11eb-803d-0e8ef5d94d06.PNG)
+
+#### Evolution:
+
+- This agent, in its initial form, was coded to investigate the performance of using A\* heuristic search plus a simple decision tree, as well as to provide a baseline performance for comparison for the other agents which were being investigated at the time.
+- From then onward, different ideas for improvement were investigated and, one after another, this agent's performance in the competition increase; there improvements arose from questions such as:
+  - Can we prevent our agent from being eaten when they search for food?
+  - What should our agent to when no optimal action exists?
+  - How can our agent avoid a deadlock with an enemy agent?
+  - How should our agent act knowing it will be eaten?
+- The major challenge in programming this agent was in the design its behaviour protocols (see **Gameplay** below); this process required extensive research which began with investigating the simple mechanics of the baseline agent, and ended with devising complex strategies to combat smarter opponents (inspiration of which was gleaned from other agents being built at the time, as well as wider research papers on the topic).
+
+#### Gameplay:
+
+- This agents acts as a dual offensive-defensive agent, however if focuses primarily on offensive strategies. Thus, the agent immortalises the saying *"the best defence is a good offence"*.
+- The agent general strategies are controlled by behaviour tree-like mechanisms (see **Behaviour Tree** above).
+- The agent acts in one of five various ways depending on the environment and its past actions, each of which have been generalised/simplified below:
+  1. **Eat enemy food:** basic offensive strategy to find nearest food (acting in consideration of teammate's position)
+  2. **Find different attack path:** secondary offensive strategy to find point of attack farthest away from current position
+  3. **Return home:** agent finds shortest path to home territory
+  4. **Escape:** primary evasive strategy to avoid enemy ghost (returns home; eats capsule; etc.)
+  5. **Defend remaining food:** sole defensive strategy to chase enemy offensive agents in territory
+
+The following is a list of improvements that eventually became the behaviour protocols to which we attribute the agent's success:
+
+- **Different Path Protocol:** agent finds different path (than current) to attack enemy agents
+- **Enemy Avoidance Protocol:** agent avoids enemies when searching for paths to food
+
+![Enemy Avoidance Protocol](https://user-images.githubusercontent.com/50134351/97100460-e890eb00-16e7-11eb-9ad1-2ef84c3091ea.gif)
+
+- **DRP (Don't Repeat the Past) Protocol:** agent finds different attack path if performing repeated actions
+
+![DRP Protocol](https://user-images.githubusercontent.com/50134351/97100764-293e3380-16eb-11eb-8f5b-b80b3aa21979.gif)
+
+- **Last Resort Protocol:** agent consumes capsule if it cannot return home whilst being chased
+
+![Last Resort Protocol](https://user-images.githubusercontent.com/50134351/97100256-ba121080-16e5-11eb-8e60-cbb6ccb85c06.gif)
+
+### Further Improvements:
+
+- Investigation into game theory with regards to multi-agent systems could have provided further insight into better strategies.
+- Possible integration with approaches other than A\* heuristic search may have provided overall better agents.
+- Investigation into developing a more balanced team, i.e. designing both an offensive and defensive agent, may have yielded better competition results.
 
 
 ## 2. Behaviour Trees with A* Heuristic Search
@@ -94,3 +138,58 @@ An agent utilising a behaviour tree would be able smart and informed decisions w
 - Behaviour trees require domain-knowledge to be hard-coded by the agent-designer, i.e. the agent is only as good as the agent-designer.
 - Behaviour trees are really an instance of AI decision-making.
 - A\* can be slow depending on which heuristic is used and the size of the search space; worst-case time complexity is *O(b^d)* (*b* = branching factor; *d* = goal depth). Additionally, it's worst-case space complexity is also *O(b^d)* (which consumes a lot of memory).
+
+### Implementation
+
+#### Evolution:
+
+- Agent 2 was initially planned to implement Classical Q-Learning approach, however both our testing and the research showed that this approach is better suited for very small grids (i.e. was not scalable to larger domains).
+- After realising this, developing an agent utilising Deep Q-Learning was considered, however this approach was also unfeasible given the 15-second training time before each match being insufficient to train a deep neural network.
+- Thus, Approximate Q-Learning was the only Q-Learning option left, and a rudimentary agent utilising this approach was designed in conjunction with tried and tested methods within the Pacman AI game literature available online.
+- The development of Agent 2 into a more competent Pacman agent almost solely revolved around the trial and error regarding which features should be extracted in order to accurately represent the agent's surrounding environment as effectively as possible (these features are described in **Gameplay** below).
+- The main challenge with Agent 2 is that the approximated Q-value was not proven to converge for all feature functions. Theoretically, the calculated Q-value (once converged) will be an optimal approximation of the optimal Q-value with regard to the choice of the feature function. 
+- This leads to the secondary challenge of finding an appropriate feature function which provides an optimal representation of the agents' domain. By doing so, the resulting policy will be optimal, however, this task was far from trivial and was eventually abandoned.
+
+#### Gameplay:
+
+- Agent 2 consisted of two separate sub-class agents: an offensive agent and a defensive agent, i.e. an agent acting as a Pacman and an agent acting as a ghost, respectively.
+- The general strategy of this agent can be described as a balanced approach, possessing explicit offensive and defensive agents. 
+- These two agents differed in their initial parameters and the features extracted to represent their surrounding environment; the specifics of which are explored in the subsections below.
+
+##### Offensive Agent:
+
+Features:
+
+- **Bias:** weight bias
+- **Successor score:** score value based on whether food is available in possible moves
+- **Number of ghosts one step away:** calculates number of enemy ghosts one step away from agent
+- **Distance from closest ghost:** calculates distance of closest ghost from agent
+- **Distance from closest food:** calculates distance of closest food from agent
+- **Whether agent is home:** whether agent is within home territory or not
+
+Other parameters:
+
+- **Carry Limit:** indicates the amount of food the agent (Pacman) should carry
+- **Power Limit:** indicates whether it is safe to approach enemy ghosts after having eaten a power capsule
+
+##### Defensive Agent:
+
+Features:
+
+- **Bias:** weight bias
+- **Number of invaders:** calculates number of invaders (enemy Pacman) within home territory
+- **Distance from middle:** calculates distance of the middle of the map from agent
+- **Distance from closest invader:** calculates distance of closest invader (enemy Pacman) from agent
+- **Scared distance:** distance of the closest invader from scared agent
+
+Additionally, the training hyper-parameters (how will the agent's Q-function be structured? i.e. how will the agent learn? what are its priorities?), were tuned in an effort to optimise training for both agents; hyper-parameters described below:
+
+- **Learning rate (alpha):** to what extent will new information be weighted higher than old information.
+- **Exploration rate (epsilon):** to what extent will the agent explore actions versus exploit best-known actions.
+- **Discount rate (gamma):** to what extent will a feature reward be discounted compared to a current reward.
+
+#### Further Improvements:
+
+- Investigation into a larger set of features / performing a comprehensive analysis would provide more concrete indication of how each feature contributes to possible increase in win rates.
+- Investigation into the use of auxiliary rewards for agents.
+- Another possible improvement would be the combination of using Approximate Q-Learning in conjunction with another AI method.
