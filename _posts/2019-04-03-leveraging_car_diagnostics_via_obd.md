@@ -1,5 +1,5 @@
 ---
-title: 'Leveraging car diagnostics capabilities via OBD '
+title: 'Leveraging car diagnostics capabilities via OBD'
 date: 2019-04-03
 permalink: /posts/2019/04/leveraging_car_diagnostics_via_obd/
 tags:
