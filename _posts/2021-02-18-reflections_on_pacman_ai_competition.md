@@ -3,19 +3,26 @@ title: 'Reflections on Pacman AI Competition'
 date: 2021-02-18
 permalink: /posts/2021/02/reflections_on_pacman_ai_competition/
 tags:
-  - machinelearning
-  - reinforcementlearning
+  - MachineLearning
+  - ReinforcementLearning
   - pacman
 ---
 
-Towards the end of last year, I had the pleasure to compete in the Pacman CTF competition that was run as part of the COMP90054 course during Semester 2 2020 at the University of Melbourne (the contest was originally designed by Berkley and is described in further detail [here](http://ai.berkeley.edu/contest.html)).
+![Pacman Capture-The-Flag](/images/pacman_capture_the_flag.PNG)
 
-In accordance with the *COMP90054 Code of Honour*, we are not allowed to release the code that we used for our agents, but nonethless I would like to use this blog post to discuss which approaches we considered and which we found to perform best in the competition. 
+Towards the end of last year, I had the pleasure **to compete in the Pacman CTF competition that was run as part of the COMP90054 course** at the University of Melbourne (Semester 2 2020). 
 
-If you are interested in further details, please refer to the Wiki that is part of the following repository: [COMP90054-Pacman-Competition](https://github.com/Bachfischer/COMP90054-Pacman-Competition/wiki)
+The CTF competition involves a multi-player capture-the-flag variant of Pacman in which the students make use of **classical planning** as well as **reinforcement learning techniques** to design agents that play Pacman against each other in a tournament.
 
+The objective of the Pacman agents is to eat as much food as possible on the far side of the map, while defending the food on their home side (the contest was originally designed by Berkley and is described in further detail [here](http://ai.berkeley.edu/contest.html)).
 
-At the beginning of the competition, we experimented with a variety of techniques such as **classical planning with PDDL** or **value iteration using a model-based MDP**. In the interest of time (the competition took approx. 6 weeks), we decided to settle on two main approaches with which we competed in the tournament and achieved satisfying results (top 10% position in the leaderboard).
+In accordance with the *COMP90054 Code of Honour*, my team and I are not allowed to release the code that we used for our Pacman agents, but nonethless I would like to use this blog post to discuss which approaches we considered and which we found to perform best in the competition. 
+
+**If you are interested in further details, please refer to the Wiki that is part of the following repository: [COMP90054-Pacman-Competition](https://github.com/Bachfischer/COMP90054-Pacman-Competition/wiki)** 
+
+---
+
+At the beginning of the competition, we experimented with a variety of techniques such as classical planning with PDDL or value iteration using a model-based MDP. In the interest of time (the competition took approx. 6 weeks), we decided to settle on two main approaches with which we competed in the tournament and achieved satisfying results (top 10% position in the leaderboard).
 
 These two approaches were:
 **1. Approximate Q-Learning**
