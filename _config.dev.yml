@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Command: bundle exec jekyll liveserve --config "_config.dev.yml"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Matthias Bachfischer Blog"
