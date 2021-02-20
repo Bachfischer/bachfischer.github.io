@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Option Volatility and Pricing: Advanced Trading Strategies and Techniques** by *Sheldon Natenberg*
+> This book is a good textbook introduction into option trading. I just skimmed over the majority of the content, but my main takeaway is that option trading is a very complex and risky activity and that, as a non-professional trader, you should better stay away from it (and instead invest directly in the underlying security)...
 * **Elephant in the Brain** by *Kevin Simler, Robin Hanson*
 > A good read to gain a bit more understanding of human psychology. The book first dives into the topic of animal behaviour and social norms that lead us to rely on signaling and self-deceptition. It then covers a variety of aspects in our lifes (such as body languange, religion and politics) in which our behaviour can often be explained by very different motives than those that we claim to follow.
 * **Antifragile: Things that Gain from Disorder** by *Nassim Taleb*
