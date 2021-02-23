@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available here: [Curriculum Vitae](files/CV_Matthias_Bachfischer.pdf)
+My CV is available here: [Curriculum Vitae](/files/CV_Matthias_Bachfischer.pdf)
 
 For feedback and inquiries, please feel free to contact me!
 
