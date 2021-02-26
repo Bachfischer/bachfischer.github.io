@@ -9,7 +9,7 @@ tags:
 ---
 
 
-A short announcements that I have now created my own alter ego in the form of a Twitter bot. It goes by the handle of **Bachfischer_bot**  and you can follow it on [Twitter](https://twitter.com/Bachfischer_bot/). 
+A short announcements that I have now created my own alter ego in the form of a Twitter bot. It goes by the handle of **@Bachfischer_bot**  and you can follow it on [Twitter](https://twitter.com/Bachfischer_bot/). 
 
 If you want to interact with the bot, you must include `#FamousQuotesFromRoding` in your tweet and it'll reply to you (Roding is a small village in Bavaria and also my hometown).  
 
