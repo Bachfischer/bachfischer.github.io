@@ -1,7 +1,7 @@
 ---
 title: 'AI for Social Impact - A great leap forward'
 date: 2021-03-02
-permalink: /posts/2021/03/ai_for_social_impact-a_survey/
+permalink: /posts/2021/03/ai_for_social_impact-a_leap_forward/
 tags:
   - MachineLearning
   - ArtificialIntelligence
