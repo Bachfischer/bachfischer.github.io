@@ -421,6 +421,26 @@
     font-weight: normal;
   }
 
+  li ul li ul > li a {
+    padding-left: 2.5rem;
+    display: none;
+  }
+
+  li ul li ul li ul > li a {
+    display: none;
+    /*padding-left: 3rem;*/
+  }
+
+  li ul li ul li ul li ul > li a {
+    display: none;
+    /*padding-left: 3.5rem;*/
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    display: none;
+    /*  padding-left: 4rem*/
+  }
+
   /* hide sub sub links on small screens*/
   li > ul li {
     display: none;
