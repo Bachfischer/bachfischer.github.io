@@ -1,19 +1,18 @@
 ---
-title: 'AI for Social Impact - A Survey'
+title: 'AI for Social Impact - A great leap forward'
 date: 2021-03-02
 permalink: /posts/2021/03/ai_for_social_impact-a_survey/
 tags:
   - MachineLearning
   - ArtificialIntelligence
   - SocialImpact
-toc: true
 ---
 
 Over the past years, there have been major advancements in Artificial Intelligence and given the intense interest and investment in AI by industry and Academia, we believe that now is the time to focus our energies **in applying AI to solve complex social problems in health, sustainability, community violence, and in assisting low resource communities**.
 
 This area of “AI for Social Impact” is a fast emerging field of scientific research and refers to the use of Artificial Intelligence to solve challenging problems in our society. 
  
-This blog post will show that in the area of AI for Social Impact, **we *are not only interested in algorithmic advancements, but also aim to deliver real-world social impact**. This post is intended to provide interested researchers and practitioners with an understanding of this growing area of research and give an overview of some of the problems that can be solved by applying AI for Social Impact.
+This blog post will show that in the area of AI for Social Impact, **we are not only interested in algorithmic advancements, but also aim to deliver real-world social impact**. This post is intended to provide interested researchers and practitioners with an understanding of this growing area of research and give an overview of some of the problems that can be solved by applying AI for Social Impact.
 
 {% include toc %}
 
