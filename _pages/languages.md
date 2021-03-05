@@ -74,4 +74,19 @@ At the moment, I'm learning around 2-3 new signs every day (sort of a morning ri
 
 * [Verbling](https://www.verbling.com) gives you easy access to (cheap) professional tutoring. I haven't used it myself (yet), but it looks very promising.
 
-* There are also plenty of *language exchanges* in every major citiy - you can take a look at [MeetUp](https://www.meetup.com) for a good overview
+* There are also plenty of *language exchanges* in every major citiy - you can take a look at [MeetUp](https://www.meetup.com) for a comprehensive overview
+
+## Language Map
+Below is a map of the countries in which at some point I would like to be able to communicate in the native language:
+
+<html>
+  <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
+  <script src="/files/jquery-3.4.1.min.js"></script>
+  <script src="/files/jquery-jvectormap-2.0.5.min.js"></script>
+  <script src="/files/jquery-jvectormap-world-mill.js"></script>
+
+  <div id="map" style="width: 600px; height: 400px"></div>
+
+<script type="text/javascript" src="/files/language_map.js"></script>
+
+</html>
