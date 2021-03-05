@@ -2,7 +2,7 @@
 
     function initMap() {
 
-        var palette = ['#66C2A5', '#E3D081', '#8DA0CB', '#E78AC3', '#FCAB64', '#B6D854', '#B33951'];
+        //var palette = ['#66C2A5', '#E3D081', '#8DA0CB', '#E78AC3', '#FCAB64', '#B6D854', '#B33951'];
 
         $('#map').vectorMap({
             map: 'world_mill',
@@ -35,7 +35,9 @@
                         BY:'#B6D854',
                         BZ:'#E3D081',
                         RU:'#B6D854',
+                        GW:'#8DA0CB',
                         GT:'#8DA0CB',
+                        GQ:'#8DA0CB',
                         GB:'#E3D081',
                         GY:'#E3D081',
                         GB:'#E3D081',
@@ -52,16 +54,18 @@
                         EG:'#FCAB64',
                         ZA:'#E3D081',
                         EC:'#8DA0CB',
+                        SO:'#FCAB64',
                         ES:'#8DA0CB',
                         MG:'#E3D081',
                         MA:'#FCAB64',
+                        MR:'#FCAB64',
                         MX:'#8DA0CB',
                         NI:'#8DA0CB',
                         NZ:'#E3D081',
                         CH:'#66C2A5',
                         CO:'#8DA0CB',
                         CN:'#B33951',
-                        CL:'#E3D081',
+                        CL:'#8DA0CB',
                         CA:'#E3D081',
                         CR:'#8DA0CB',
                         CU:'#8DA0CB',
@@ -72,15 +76,19 @@
                         KW:'#FCAB64',
                         KZ:'#B6D854',
                         SA:'#FCAB64',
+                        SD:'#FCAB64',
                         DO:'#8DA0CB',
+                        DJ:'#FCAB64',
                         DE:'#66C2A5',
                         YE:'#FCAB64',
+                        DZ:'#FCAB64',
                         AG:'#FCAB64',
                         US:'#E3D081',
                         UY:'#8DA0CB',
                         LB:'#FCAB64',
                         TW:'#B33951',
                         TT:'#E3D081',
+                        TD:'#FCAB64',
                         LY:'#FCAB64',
                         AE:'#FCAB64',
                         VE:'#8DA0CB',
@@ -90,7 +98,6 @@
                         AU:'#E3D081',
                         AT:'#66C2A5',
                         IE:'#E3D081',
-                        IN:'#E3D081',
                         UA:'#B6D854',
                         QA:'#FCAB64',
                         MZ:'#E78AC3'

@@ -17,7 +17,7 @@ My native tongue, so quite glad I didn't really have to learn it (some people ha
 
 ## 2. English
 
-Not much to say here - learned it from around ten years on, mostly by massive exposure to books, movies and (of course) the Internet. 
+Not much to say here - I learned English from around ten years on, mostly by massive exposure to books, movies and (of course) the Internet. 
 
 ## 3. Spanish
 
@@ -77,7 +77,7 @@ At the moment, I'm learning around 2-3 new signs every day (sort of a morning ri
 * There are also plenty of *language exchanges* in every major citiy - you can take a look at [MeetUp](https://www.meetup.com) for a comprehensive overview
 
 ## Language Map
-Below is a map of the countries in which at some point I would like to be able to communicate in the native language:
+Below is a map of the countries in which (at some point in the future) I would like to be able to communicate in the native language:
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
