@@ -5,7 +5,7 @@ permalink: /posts/2019/04/leveraging_car_diagnostics_via_obd/
 tags:
   - automotive
   - diagnostics
-  - obd
+  - OBD
 ---
 
 In a recent project that I did for my current employer (BCG Platinion), we were tasked with developing a digital Proof of Concept app that retrieves data from cars and analyzes it for interesting insights. The specifics of our work are of course under NDA, but nonetheless we were allowed to publish two short blog posts on LinkedIn that describe the great results that we have accomplished as a team. 

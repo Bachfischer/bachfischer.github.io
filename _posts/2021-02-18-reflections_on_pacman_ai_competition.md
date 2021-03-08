@@ -3,9 +3,10 @@ title: 'Reflections on Pacman AI Competition'
 date: 2021-02-18
 permalink: /posts/2021/02/reflections_on_pacman_ai_competition/
 tags:
-  - MachineLearning
-  - ReinforcementLearning
+  - machine learning
+  - reinforcement learning
   - pacman
+  - COMP90054
 ---
 
 ![Pacman Capture-The-Flag](/images/pacman_capture_the_flag.PNG)
