@@ -24,3 +24,7 @@ This map gives an overview of the countries that I have visited (42 countries so
 <script type="text/javascript" src="/files/travel_map.js"></script>
 
 </html>
+
+## IT Security
+
+I have been running my own VPN server for multiple years now. [Algo](https://github.com/trailofbits/algo) makes it extremly easy to spin-up your own IPsec VPN server in the cloud and comes with a reasonable set of defaults, so it's definitely worth to give it a try instead of relying on a commerical VPN service.
