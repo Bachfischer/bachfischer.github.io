@@ -1,11 +1,11 @@
 ---
 title: 'AI for Social Impact - A great leap forward'
-date: 2021-03-02
+date: 2021-03-08
 permalink: /posts/2021/03/ai_for_social_impact-a_leap_forward/
 tags:
-  - MachineLearning
-  - ArtificialIntelligence
-  - SocialImpact
+  - machine learning
+  - artificial intelligence
+  - social impact
 ---
 
 Over the past years, there have been major advancements in Artificial Intelligence and given the intense interest and investment in AI by industry and Academia, we believe that now is the time to focus our energies **in applying AI to solve complex social problems in health, sustainability, community violence, and in assisting low resource communities**.
@@ -129,7 +129,36 @@ PAWS has been field-tested in multiple conservation sites in Uganda, Cambodia, M
 * Yang, R., et al. (2014). *Adaptive resource allocation for wildlife protection against illegal poachers*.
 
 ## Public health interventions as a Multi-Armed Bandit (MAB) setting 
-https://arxiv.org/abs/2007.04432
+
+### Target problem:
+In the global south, Community Health Workers (CHWs) play an important role in public health-care systems. CHWs complement primary health facilities by providing health education, screening, and basic emergency care in local communities. CHWs are often responsible for hundreds of patients, but only have access to limited resources (which restricts the number of patients that can be monitored and intervened each day). To maximize welfare, the CHWs' resources need to be allocated effectively - this is commonly referred to as the *health monitoring and intervention problem (HMIP)*.
+ 
+### Why AI is needed:
+Existing solutions to optimize HMIP do not factor risk-sensitivity into their planning models. This can entail the risk of patients being ignored as they are seen as less important to be intervened upon. In traditional HMIP models, patients are intervened upon in a round-robin order which does not consider the level of care a patient requires and might lead to more interventions than really necessary.
+ 
+### Intervention overview: 
+The authors introduce *Collapsing Bandit models*, a subclass of *restless multi-armed bandit models (RMABs)* which they claim to be able to generalize better than previous *RMABs*. Each bandit's arm represents a patient, and each time an arm is played, the MAB transitions into one of the following two states: 
+1. Adhering to the tuberculosis medication and 
+2. Not adhering to the medication.
+
+The CHWs' goal is to find a policy that maximizes the total reward across all arms. To find an optimal policy, the collapsing bandit model builds on the Whittle index technique and leverages Lagrangian relaxation to solve the optimization problem. As a result, the collapsing bandit model achieves a 3x-speedup compared to other RMAB techniques without impairing the model’s performance.
+ 
+### Data used:
+The experiment makes use of a real-world healthcare dataset compiled by Killian et. all. This dataset contains data from 17.000 tuberculosis patients over 292 health centers in Mumbai, India, which have received a total of 2.1 million doses and needed to follow a 6-month medication plan. 
+ 
+ 
+### Resources needed: 
+The local CHWs play an important role in building a bridge between health resources and local communities. With directly observed treatments, CHWs can observe and confirm directly that a patient is taking the prescribed medications. Despite this, the social stigma of public fear of illness and the financial burden on patients to travel to health facilities might still increase the likelihood that follow-up visits might be missed. 
+
+For this reason, digital adherence technology (DAT) plays an important role in supporting the eradication of diseases such as tuberculosis by observing the adherence to medication electronically. Patients can for example send a text message or provide a photo of their pillboxes to prove the drug intake, which allows CHWs to focus their limited time on high-risk patients.
+ 
+### Deployment status: 
+The authors have evaluated their algorithm on a variety of datasets, including real and synthetic data. In particular, Mate et al. used tuberculosis medication adherence data from Killian et. all. To the best of the knowledge of the authors of this blog post, no *RMAB-based planning framework* for health intervention has been put into production yet.
+
+### References:
+* Killian, J. A., et al. (2019). *Learning to prescribe interventions for tuberculosis patients using digital adherence data*.	
+* Mate, A., et al. (2021). *Risk-Aware Interventions in Public Health: Planning with Restless Multi-Armed Bandits*.
+* Mate, A., et al. (2020). *Collapsing bandits and their application to public health interventions*.
 
 
 # Outlook and further references
