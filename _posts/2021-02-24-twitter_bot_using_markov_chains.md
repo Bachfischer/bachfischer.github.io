@@ -3,9 +3,10 @@ title: 'Building a personal Twitter Bot using Markov chains'
 date: 2021-02-24
 permalink: /posts/2021/02/twitter_bot_using_markov_chains/
 tags:
-  - MachineLearning
-  - ArtificialIntelligence
-  - NLP
+  - machine learning
+  - artificial intelligence
+  - nlp
+  - twitter
 ---
 
 

@@ -5,7 +5,7 @@ permalink: /posts/2018/10/deep_learning_for_toxic_comment_classification/
 tags:
   - kaust
   - nlp
-  - machinelearning
+  - machine learning
 ---
 
 Last month, I had the pleasure to take part in the [GermEval 2018](https://projects.fzai.h-da.de/iggsa/) workshop on the identification of offensive comments in German language microposts. During my stay at KAUST, me and my supervisors took part in Task 1 (binary classification) of the shared task for German language classification. 

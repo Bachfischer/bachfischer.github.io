@@ -3,7 +3,7 @@ title: 'Various articles on Business Managed IT'
 date: 2018-12-20
 permalink: /posts/2018/12/articles_on_business_managed_it/
 tags:
-  - business-managed-it
+  - business-managed it
   - shadow-it
 ---
 
