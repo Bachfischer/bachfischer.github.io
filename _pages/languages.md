@@ -11,6 +11,8 @@ On this page I would like to share any useful information I encounter while stud
 
 The order below does not reflect a language's popularity, but rather my order for learning.
 
+{% include toc %}
+
 ## 1. German
 
 My native tongue, so quite glad I didn't really have to learn it (some people have told me it might be a bit complex to learn...😁). I guess German is mostly known for having plenty of compound words and a rather difficult grammatical structures (e.g. with articles). 
@@ -25,7 +27,7 @@ I studied Spanish during high school and kept on with it during my undergraduate
 
 At the moment, I'm mostly trying just to retain my Spanish skills via books and podcasts, some of which I have listed below.
 
-### Language Resources:
+**Language Resources:**
 * Podcast: Radio Ambulante ([Link](https://radioambulante.org))
 * Book "El sueño del Celta" by *Mario Vargas Llosa* (my absolute favorite - would recommend everyone to read!)
 * Book "El Senor Presidente" by *Miguel Angel Asturias*
@@ -35,7 +37,7 @@ At the moment, I'm mostly trying just to retain my Spanish skills via books and 
 
 I started to study Portuguese during my time in Buenos Aires and progressed to CEFR level B2 during my undergraduate studies. It's relatively easy to learn once you are proficient in Spanish because both languages share the grammatical structure and plenty of vocabulary as well. In the first Portuguese course that I took at the Unviseridad de Buenos Aires, I in fact didn't even learn any Portuegese, but instead only the Portuegse words and grammar that is different from Spanish.
 
-### Language Resources:
+**Language Resources:**
 * Podcast: Xadrez Verbal ([Link](https://xadrezverbal.com))
 * Book "O povo brasileiro" by *Darcy Ribeiro*
 
@@ -44,7 +46,7 @@ I started to study Portuguese during my time in Buenos Aires and progressed to C
 Learning Arabic is a  project that I have been pursuing for a rather long time now. I have taken courses in Arabic at university, at a language school in Cairo and in Jeddah and at [LSI Bochum](https://www.lsi-bochum.de) as well. From time to time, I try to follow the news on Arabic news sites (to get familiar with Arabic being spoken by natives) and slowly but steady I'm becoming more and more fluid.
 
 
-### Language Resources:
+**Language Resources:**
 * App: Mondly ([Link](https://www.mondly.com)) (they have a short daily vocab. quiz that I like)
 * News: Al-Jazeera Learning Resources ([Link](https://learning.aljazeera.net/en))
 * News: Al-Jazeera ([Link](http://www.aljazeera.net/portal))
@@ -52,7 +54,7 @@ Learning Arabic is a  project that I have been pursuing for a rather long time n
 ## 6. Russian
 I've started Russian fairly recently in July 2020. I'm learning it with my girlfriend (who is a native speaker) and we are using a book called "РУССКИЙ ЯЗЫК КАК ИНОСТРАННЫЙ. НАЧАЛЬНЫЙ КУРС". Even though our learning sessions are rather infrequent, it's still great fun and I'm looking forward to be able to communicate with her relatives in their own native language!
 
-### Language Resources:
+**Language Resources:**
 * Coming soon (once I master the language a bit more...)
 
 ## 7. Chinese
@@ -65,7 +67,7 @@ A phonetic table can also be extremely helpful if you want to play around with s
 
 At the moment, I'm learning around 2-3 new signs every day (sort of a morning ritual) and would like to follow-up with a language course in Chinese for CEFR level A2 soon.
 
-### Language Resources:
+**Language Resources:**
 * Coming soon (once I master the language a bit more...)
 
 

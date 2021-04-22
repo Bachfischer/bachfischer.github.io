@@ -6,15 +6,15 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Reading List"
     url: /reading_list/
 
-  - title: "Life"
-    url: /life/
-
   - title: "Languages"
     url: /languages/
-
-  - title: "CV"
-    url: /cv/
+    
+  - title: "Life"
+    url: /life/
