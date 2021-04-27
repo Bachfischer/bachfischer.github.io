@@ -11,7 +11,7 @@ This is a collection of thoughts and advice on a wide range of topics, updated w
 
 ## Travel Map
 
-This map gives an overview of the countries that I have visited (42 countries so far!):
+This map gives an overview of the countries that I have visited (43 countries so far!):
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
