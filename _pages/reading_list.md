@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **La llamada de la tribu** by *Mario Vargas Llosa*
+> In this book, Mario Vargas Llosa shares his experience of reading and thinking about some of the greatest philosophers of the last century (Karl Popper, Isaiah Berlin and many others). He describes how reading these philosophers have helped him in developing his own ideas as well as shaping his views of the liberal agenda.
 * **Option Volatility and Pricing: Advanced Trading Strategies and Techniques** by *Sheldon Natenberg*
 > This book is a good textbook introduction into option trading. I just skimmed over the majority of the content, but my main takeaway is that option trading is a very complex and risky activity and that, as a non-professional trader, you should better stay away from it (and instead directly invest in the underlying security)...
 * **Elephant in the Brain** by *Kevin Simler, Robin Hanson*
