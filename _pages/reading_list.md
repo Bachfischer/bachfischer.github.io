@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Influence: Science and Practice** by *Robert B. Cialdini*
+> Reading "Influence" will help you become aware of the tricks and tactics that marketing uses in order to sell you something / convince you of something. The book describes how under certain conditions, our mind switches to auto-pilot mode - in this mode, we behave in a very predictable (and exploitable) way. 
 * **La llamada de la tribu** by *Mario Vargas Llosa*
 > In this book, Mario Vargas Llosa shares his experience of reading and thinking about some of the greatest philosophers of the last century (Karl Popper, Isaiah Berlin and many others). He describes how reading these philosophers have helped him in developing his own ideas as well as shaping his views of the liberal agenda.
 * **Option Volatility and Pricing: Advanced Trading Strategies and Techniques** by *Sheldon Natenberg*
