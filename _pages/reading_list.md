@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Letters from a Stoic** by *Seneca*
+> This books provides a great introduction to Stoic philosophy. It's a collection of Seneca's letters in which he gives advice on how to live a good life - many principles can also be followed in modern-day society!
 * **Influence: Science and Practice** by *Robert B. Cialdini*
 > Reading "Influence" will help you become aware of the tricks and tactics that marketing uses in order to sell you something / convince you of something. The book describes how under certain conditions, our mind switches to auto-pilot mode - in this mode, we behave in a very predictable (and exploitable) way. 
 * **La llamada de la tribu** by *Mario Vargas Llosa*
