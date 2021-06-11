@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **The Changing World Order: Why Nations Succeed and Fail** by *Ray Dalio*
+> A good primer on the macro-trends that have led to the rise and fall of nations over the last 2000 years. Ray Dalio tries to find patterns in the major events that have occured in the past and how they can be used to explain what we are experiencing the present (e.g. debt crisis or the struggle for influence and power between the US and China)
 * **Letters from a Stoic** by *Seneca*
 > This books provides a great introduction to Stoic philosophy. It's a collection of Seneca's letters in which he gives advice on how to live a good life - many principles can also be followed in modern-day society!
 * **Influence: Science and Practice** by *Robert B. Cialdini*
