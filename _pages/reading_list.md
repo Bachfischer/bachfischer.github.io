@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **A Guide To The Good Life: The Ancient Art Of Stoic Joy** by *William B. Irvine* 
+> I mainly bought this book to complement "Letters from a Stoic" by Seneca. Irvine provides a great presentation of the Stoic philosophy, including various techniques that can assist us in practicising Stoicism (e.g. negative visualization). Definitely a helpful read if you aim to attain inner tranquility.
 * **Thinking in Systems: A Primer** by *Donella Meadows* 
 > A good introduction to systems thinking and how we can apply it to model complex behavior of e.g. companies. The whole world exhibits system properties and understanding these and their interactions is crucial to bringing along positive change. 
 * **The Changing World Order: Why Nations Succeed and Fail** by *Ray Dalio*
