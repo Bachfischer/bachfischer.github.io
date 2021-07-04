@@ -13,7 +13,7 @@ This is a list of books that I have read over the last couple of years. Going fo
 ## 2021
 
 * **Doing Good Better** by *William MacAskill*
-> This book was recommended to me by a friend. I like the framework which the author uses to analyze NGOs and measure the impact of charity work (quality-adjusted life years) - it also has some good remarks on statistics (fat-tailed distributions etc.)
+> This book was recommended to me by a friend. I like the framework which the author uses to analyze NGOs and measure the impact of charity work (quality-adjusted life years - QALYs). It also has some good remarks on statistics, such as modeling with fat-tailed distributions.
 * **A Guide To The Good Life: The Ancient Art Of Stoic Joy** by *William B. Irvine* 
 > I mainly bought this book to complement "Letters from a Stoic" by Seneca. Irvine provides a great presentation of the Stoic philosophy, including various techniques that can assist us in practicising Stoicism (e.g. negative visualization). Definitely a helpful read if you aim to attain inner tranquility.
 * **Thinking in Systems: A Primer** by *Donella Meadows* 
