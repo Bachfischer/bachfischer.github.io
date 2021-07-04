@@ -79,7 +79,7 @@ At the moment, I'm learning around 2-3 new signs every day (sort of a morning ri
 * There are also plenty of *language exchanges* in every major citiy - you can take a look at [MeetUp](https://www.meetup.com) for a comprehensive overview
 
 ## Language Map
-Below is a map of the countries in which (at some point in the future) I would like to be able to communicate in the native language:
+Below is a map of the countries in which I would like to be able to communicate in the native language (at some point in the future...):
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
