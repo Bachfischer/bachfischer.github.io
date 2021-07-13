@@ -10,7 +10,7 @@ tags:
 
 In this blog post, I would like to present my submission to the **COMP90042 Natural Language Processing Project** at the University of Melbourne (Semester 1 2021).
 
-![Transformers Logo](/images/transformers_logo.PNG)
+![Transformers Logo](/images/transformers_logo.png)
 
 The task of the project was to 
 * Develop a system for rumour identification (task 1) and
