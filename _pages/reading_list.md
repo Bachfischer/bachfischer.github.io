@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **The Open Society and Its Enemies** by *Karl Popper*
+> I find it very hard to write a short and concise summary of this book, so you may want to consult other [resources](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies) if you would like to learn more about it. In general, the book deals with the role of historicism and reflects critically on the thoughts of Plato, Marx and Hegel.
 * **Doing Good Better** by *William MacAskill*
 > This book was recommended to me by a friend. I like the framework which the author uses to analyze NGOs and measure the impact of charity work (quality-adjusted life years - QALYs). It also has some good remarks on statistics, such as modeling with fat-tailed distributions.
 * **A Guide To The Good Life: The Ancient Art Of Stoic Joy** by *William B. Irvine* 
