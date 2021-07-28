@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX** by *Eric Berger*
+> Engaging read to learn more about the founding phase of SpaceX and the efforts that went into putting the Falcon1 rocket into orbit. The author narrates the crazy journey that the company took to disrupt the entire aerospace industry.
 * **The Open Society and Its Enemies** by *Karl Popper*
 > I find it very hard to write a short and concise summary of this book, so you may want to consult other [resources](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies) if you would like to learn more about it. In general, the book deals with the role of historicism and reflects critically on the thoughts of Plato, Marx and Hegel.
 * **Doing Good Better** by *William MacAskill*
