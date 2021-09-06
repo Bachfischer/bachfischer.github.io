@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **The Mastermind: The hunt for the World's most prolific criminal** by *Evan Ratliff*
+> The captivating story of Paul Le Roux, a computer programmer who managed to make millions in a legal grey area by selling painkiller drugs via the internet on a massive scale. He then evolved to become an international drug kingin before he was finally captured by US law enforcement. I had heard about Le Roux previously from a series of articles in [The Atavist](https://magazine.atavist.com/the-mastermind/), but this book provides even greater details in some of his seemingly crazy projects (like running his own militia in Somalia).
 * **Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX** by *Eric Berger*
 > Engaging read to learn more about the founding phase of SpaceX and the efforts that went into putting the Falcon1 rocket into orbit. The author narrates the crazy journey that the company took to disrupt the entire aerospace industry.
 * **The Open Society and Its Enemies** by *Karl Popper*
