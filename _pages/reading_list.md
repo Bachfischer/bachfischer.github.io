@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Parkinson's law and other studies in administration** by *C. Northcote Parkinson*
+> Humorous and contemporary read, even though it's from the late 1950s. The core idea of Parkinson's law is the observation that "work expands to fill the time available" and I'm sure that most of us have observed the behavior described in the book on more than one occasion.
 * **The Power of Habit: Why We Do What We Do in Life and Business** by *Charles Duhigg*
 > Interesting book on how we form and develop habits that guide us through our lives. The core content could be summarized in a few pages, which make the book a bit of a dry reading because it is full of anecdotes and examples.
 * **The Mastermind: The hunt for the World's most prolific criminal** by *Evan Ratliff*
