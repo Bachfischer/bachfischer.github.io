@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **The Emperor of All Maladies: A Biography of Cancer** by *Siddhartha Mukherjee*
+> Excellent summary of the battle against cancer that medicine has been waging for the last 2000 years. What I found most interesting was the massive amount of progress that has been made to find a cure for cancer, especially within the last 50 years (which, of course, builds up on previous research and discoveries). 
 * **Parkinson's law and other studies in administration** by *C. Northcote Parkinson*
 > Humorous and contemporary read, even though it's from the late 1950s. The core idea of Parkinson's law is the observation that "work expands to fill the time available" and I'm sure that most of us have observed the behavior described in the book on more than one occasion.
 * **The Power of Habit: Why We Do What We Do in Life and Business** by *Charles Duhigg*
