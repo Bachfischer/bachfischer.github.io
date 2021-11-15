@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **The Book of Why: The New Science of Cause and Effect** by *Judea Pearl, Dana Mackenzie*
+> The book discusses the approach that statisticians have taken throughout the last two centuries in trying to tackle the topic of correlation vs. causation. It also discusses a variety of ideas that were first introduced by the author (such as Bayesian networks). Overall an interesting read, but sometimes focusing a bit too much on the specific personality traits of some famous statisticians like Irving Fisher etc.
 * **The Emperor of All Maladies: A Biography of Cancer** by *Siddhartha Mukherjee*
 > Excellent summary of the battle against cancer that medicine has been waging for the last 2000 years. What I found most interesting was the massive amount of progress that has been made to find a cure for cancer, especially within the last 50 years (which, of course, builds up on previous research and discoveries). 
 * **Parkinson's law and other studies in administration** by *C. Northcote Parkinson*
