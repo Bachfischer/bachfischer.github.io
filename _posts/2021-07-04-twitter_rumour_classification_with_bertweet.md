@@ -24,7 +24,7 @@ For this project, I have implemented three classification systems:
 2. An extension of the *PureBERT* architecture that combines the textual features with tabular data (called *"MultimodalBERT"*)
 3. A language model that has been pre-trained on a large corpus (850 million) of English Tweets (called *"BERTweet"*).
 
-Using the best-performing model *BERTweet*, I managed to achieve a **F1 score of 86.17%** (which put me on rank 12 out of 308 participants in the final competition). 
+Using the best-performing model *BERTweet*, I managed to achieve a **F1 score of 86.17%** (which put me on rank 12 out of 308 participants in the final [CodaLab competition](https://competitions.codalab.org/competitions/30503)). 
 
 A detailed write-up of the implementation details (pre-processing routine etc.) for the models mentioned above is available [here](https://github.com/Bachfischer/COMP90042-Rumour-Detection-on-Twitter/blob/master/BERT_based_Rumour_Identification_and_Analysis_for_Twitter_Posts.pdf), **and if you are interested in further details, please refer to the following repository:**
 [COMP90042-Rumour-Detection-on-Twitter](https://github.com/Bachfischer/COMP90042-Rumour-Detection-on-Twitter)
