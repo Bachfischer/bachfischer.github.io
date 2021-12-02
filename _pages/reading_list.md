@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2021
 
+* **Tiempos recios** by *Mario Vargas Llosa*
+> Great book with a fictitious story about the socio-political disruption that took place in Guatemala in the 1950s. Highly interesting to read and insightful to understand the actors and their motivations during this time of conflict (e.g., various Latin American dictators, the United Fruit Company, and the CIA, among others).
 * **The Book of Why: The New Science of Cause and Effect** by *Judea Pearl, Dana Mackenzie*
 > The book discusses the approach that statisticians have taken throughout the last two centuries in trying to tackle the topic of correlation vs. causation. It also discusses a variety of ideas that were first introduced by the author (such as Bayesian networks). Overall an interesting read, but sometimes focusing a bit too much on the specific personality traits of some famous statisticians like Irving Fisher etc.
 * **The Emperor of All Maladies: A Biography of Cancer** by *Siddhartha Mukherjee*
