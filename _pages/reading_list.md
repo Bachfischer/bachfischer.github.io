@@ -10,6 +10,11 @@ redirect_from:
 
 This is a list of books that I have read over the last couple of years. Going forward, I will try to add a short summary for each book that I have read.
 
+## 2022
+
+* **La guerra del fin del mundo** by *Mario Vargas Llosa*
+> Fascinating story about the conflict in Canudos (situated in Bahia, Brazil) taking place in the 1890s. Another epic novel by Mario Vargas Llosa, but involving quite a huge number of characters, which can make it a bit confusing at times.
+
 ## 2021
 
 * **Tiempos recios** by *Mario Vargas Llosa*
