@@ -9,9 +9,14 @@ author_profile: true
 
 This is a collection of thoughts and advice on a wide range of topics, updated whenever I think of something new. It is very much work-in-progress.
 
-## Sports
+## Sport
 
 I enjoy all kinds of outdoor sports, in particular trail running, mountain biking and ski mountaineering. A book that I can highly recommend if you're into ski mountaineering or similar winter activities is [3x3 Lawinen: Risikomanagement im Wintersport](https://www.amazon.de/dp/8870737756/ref=cm_sw_em_r_mt_dp_NWD2DD2FWHCRGASFS4K6) (German only).
+
+### Competitions
+
+* **June 2019: Mayerhofen Ultraks 50k** (8:22h)
+* **October 2019: München Marathon 42k** (3:29h)
 
 ## Podcasts
 
