@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-On this page I would like to share any useful information I encounter while studying languages, both for myself and any other learners out there. I always try to find good and interesting resources (books, podcasts etc.) while learning a language, so I hope this is helpful!
+On this page, I would like to share some useful information that I have encountered while studying languages, both for myself and any other learners out there. I always try to find good and interesting resources (books, podcasts etc.) while learning a language, so I hope this is helpful!
 
 The order below does not reflect a language's popularity, but rather my order for learning.
 
@@ -19,7 +19,7 @@ My native tongue, so quite glad I didn't really have to learn it (some people ha
 
 ## 2. English
 
-Not much to say here - I learned English from around ten years on, mostly by massive exposure to books, movies and (of course) the Internet. 
+Not much to say here - I learned English from around ten years on, mostly by massive exposure to books, movies and (of course) the internet. 
 
 ## 3. Spanish
 
@@ -35,7 +35,7 @@ At the moment, I'm mostly trying just to retain my Spanish skills via books and 
 
 ## 4. Portuguese
 
-I started to study Portuguese during my time in Buenos Aires and progressed to CEFR level B2 during my undergraduate studies. It's relatively easy to learn once you are proficient in Spanish because both languages share the grammatical structure and plenty of vocabulary as well. In the first Portuguese course that I took at the Unviseridad de Buenos Aires, I in fact didn't even learn any Portuegese, but instead only the Portuegse words and grammar that is different from Spanish.
+I started to study Portuguese during my time in Buenos Aires and progressed to CEFR level B2 during my undergraduate studies. Portuguese is a relatively easy language to learn once you are proficient in Spanish, because both languages share the same grammatical structure and plenty of vocabulary. In fact, during the first Portuguese course that I took at the Universidad de Buenos Aires, I didn't even learn any Portuguese vocabulary, but only the Portuguese words and grammar that is different from Spanish.
 
 **Language Resources:**
 * Podcast: Xadrez Verbal ([Link](https://xadrezverbal.com))
@@ -43,7 +43,7 @@ I started to study Portuguese during my time in Buenos Aires and progressed to C
 
 ## 5. Arabic
 
-Learning Arabic is a  project that I have been pursuing for a rather long time now. I have taken courses in Arabic at university, at a language school in Cairo and in Jeddah and at [LSI Bochum](https://www.lsi-bochum.de) as well. From time to time, I try to follow the news on Arabic news sites (to get familiar with Arabic being spoken by natives) and slowly but steady I'm becoming more and more fluid.
+Learning Arabic is a  project that I have been pursuing for a rather long time now. I have taken courses in Arabic at university, at language schools in Cairo and Jeddah and also at [LSI Bochum](https://www.lsi-bochum.de). From time to time, I try to follow the news on Arabic news sites (to get familiar with Arabic being spoken by natives) and slowly but steady my Arabic is becoming more and more fluent.
 
 
 **Language Resources:**
@@ -74,9 +74,9 @@ At the moment, I'm learning around 2-3 new signs every day (sort of a morning ri
 ## Multi-Language Resources
 * [Duolingo](https://duolingo.com) is certainly the best language learning app that I know (and it's free!). If you haven't already, it's definitely worth it to try!
 
-* [Verbling](https://www.verbling.com) gives you easy access to (cheap) professional tutoring. I haven't used it myself (yet), but it looks very promising.
+* [Verbling](https://www.verbling.com) gives you easy access to (cheap) professional tutoring. I haven't used it myself yet, but it looks very promising.
 
-* There are also plenty of *language exchanges* in every major citiy - you can take a look at [MeetUp](https://www.meetup.com) for a comprehensive overview
+* There are also plenty of *language exchanges* in every major city - you can take a look at [MeetUp](https://www.meetup.com) for a comprehensive overview
 
 ## Language Map
 Below is a map of the countries in which I would like to be able to communicate in the native language (at some point in the future...):
