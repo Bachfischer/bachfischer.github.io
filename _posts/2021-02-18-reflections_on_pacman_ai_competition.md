@@ -9,7 +9,7 @@ tags:
   - COMP90054
 ---
 
-![Pacman Capture-The-Flag](/images/pacman_capture_the_flag.png)
+![Pacman Capture-The-Flag](/images/pacman_capture_the_flag.PNG)
 
 Towards the end of last year, I had the pleasure **to compete in the Pacman CTF competition that was run as part of the COMP90054 course** at the University of Melbourne (Semester 2 2020). 
 
