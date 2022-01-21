@@ -30,7 +30,7 @@ In my [master's thesis](/publication/2021-12-08-adversarial-workload-matters), I
 
 As part of the experiments for my master's thesis, I evaluated three index implementations by measuring their throughput in million operations per second. The evaluated indexes consist of two learned index structures [ALEX](https://github.com/microsoft/ALEX) and [Dynamic-PGM](https://pgm.di.unipi.it/) as well as a traditional B+ Tree. Because indexes are usually used to speed-up data retrieval when dealing with massive amount of data, I chose to evaluate the performance of the indexes based on the [SOSD benchmark datasets](https://github.com/learnedsystems/SOSD/) that consist of 200 million keys each.
 
-Unfortunately, executing the poisoning attack by Kornaropoulos et al. is heavily computationally intensive, so I had to run them with a fixed poisoning threshold of $p=0.0001$, thus generating 20,000 poisoning keys for a dataset of 200 million keys. However, this poisoning threshold can be considered to be relatively low, and previous work on poisoning attacks has used poisoning thresholds of up-to $p=0.02$. 
+Unfortunately, executing the poisoning attack by Kornaropoulos et al. is heavily computationally intensive, so I had to run them with a fixed poisoning threshold of $p=0.0001$, thus generating 20,000 poisoning keys for a dataset of 200 million keys. This poisoning threshold can be considered to be relatively low, as previous work on poisoning attacks has used poisoning thresholds of up-to $p=0.20$. 
 
 # Implementing a flexible microbenchmark for learned indexes
 
@@ -70,4 +70,5 @@ We can see that ALEX dominates all learned index structures. The performance of 
 
 In the experiments, PGM-Index performs worst with a mean lookup time of > 50 nanoseconds. This is most likely due to the fact that PGM-Index is optimized for large-scale data workloads and exhibits subpar performance in this microbenchmark because the dataset consists of only 1000 keys.
 
-The consider the results from this research to be a highly interesting study of the robustness of learned index structures. The poisoning attack and microbenchmark described in this post are open-source and can be easily adapted for future research purposes. If you have any further thoughts or ideas, please let me know!
+I consider the results from this research to be a highly interesting study of the robustness of learned index structures. The poisoning attack and microbenchmark described in this post are open-source and can be easily adapted for future research purposes. 
+If you have any further thoughts or ideas, please let me know!
