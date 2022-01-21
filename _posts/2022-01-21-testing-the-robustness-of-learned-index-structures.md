@@ -20,7 +20,7 @@ Traditional and learned indexes                | ML models to approximate the CD
 
 This novel approach of implementing database indexes has inspired a surge of recent research aimed at studying the effectiveness of learned index structures. However, while the main advantage of learned index structures is their ability to adjust to the data via their underlying ML model, this also carries the risk of exploitation by a malicious adversary.
 
-This post will show some experiments that I have conducted as a follow-up to the research for my [master's thesis](/publication/2021-12-08-adversarial-workload-matters) at The University of Melbourne.
+This post will show some experiments that I have conducted as a follow-up to the research on [adversarial machine learning in the context of learned index structures](/publication/2021-12-08-adversarial-workload-matters) that was part of my master's thesis at The University of Melbourne.
 
 {% include toc %}
 
@@ -30,7 +30,7 @@ In my [master's thesis](/publication/2021-12-08-adversarial-workload-matters), I
 
 As part of the experiments for my master's thesis, I evaluated three index implementations by measuring their throughput in million operations per second. The evaluated indexes consist of two learned index structures [ALEX](https://github.com/microsoft/ALEX) and [Dynamic-PGM](https://pgm.di.unipi.it/) as well as a traditional B+ Tree. Because indexes are usually used to speed-up data retrieval when dealing with massive amount of data, I chose to evaluate the performance of the indexes based on the [SOSD benchmark datasets](https://github.com/learnedsystems/SOSD/) that consist of 200 million keys each.
 
-Unfortunately, executing the poisoning attack by Kornaropoulos et al. is heavily computationally intensive, so I had to run them with a fixed poisoning threshold of $p=0.0001$, thus generating 20,000 poisoning keys for a dataset of 200 million keys. However, this poisoning threshold can be considered to be relatively low, and previous work on poisoning attacks has used poisoning thresholds of up-to $p=0.02$. 
+Unfortunately, executing the poisoning attack by Kornaropoulos et al. is heavily computationally intensive, so I had to run them with a fixed poisoning threshold of $p=0.0001$, thus generating 20,000 poisoning keys for a dataset of 200 million keys. This poisoning threshold can be considered to be relatively low, as previous work on poisoning attacks has used poisoning thresholds of up-to $p=0.20$. 
 
 # Implementing a flexible microbenchmark for learned indexes
 
@@ -59,7 +59,7 @@ From the graphs, we can observe that simple linear regression (SLR) is particula
 
 The performance of the competitors that optimize a different error function such as LogTE, DLogTE and 2P (introduced in [A Tailored Regression for Learned Indexes](https://db.in.tum.de/~fent/papers/LogarithmicError.pdf?lang=en)) are more robust against adversarial attacks. For these regression models, the mean lookup time remains relatively stable even when the poisoning threshold is increased substantially. 
 
-Because SLR is the de-facto standard in learned index structures and used internally by the ALEX and the PGM-Index implementations, we would expect that these two models also exhibit a relatively high performance deterioration when evaluated on the poisoned dataset. Surprisingly, ALEX does not show any significant performance impact, most likely due to the usage of gapped arrays that allow the model to easily capture outliers in the data. The performance of the PGM-Index deteriorates by a factor of up-to 1.3x.
+Because SLR is the de-facto standard in learned index structures and used internally by the ALEX and the PGM-Index implementations, we would expect that these two models also exhibit a relatively high performance deterioration when evaluated on the poisoned dataset. Surprisingly, ALEX does not show any significant performance impact, most likely due to the usage of gapped arrays that allow the model to easily capture outliers in the data (I guess that this effect can be mainly attributed to the small keyset size). The performance of the PGM-Index deteriorates by a factor of up-to 1.3x.
 
 
 To put things into a broader perspective, I have also calculated the overall mean lookup time for the evaluated learned indexes (averaged across all experiments) in the graph below.
@@ -67,6 +67,8 @@ To put things into a broader perspective, I have also calculated the overall mea
 ![](/images/learned_indexes-mean_lookup_time-average.png)
 
 We can see that ALEX dominates all learned index structures. The performance of the regression models SLR, LogTE, DLogTE, 2P, TheilSen and LAD is also relatively similar, in a range between 30 - 40 nanoseconds. 
-In the experiments, PGM-Index performs worst with a mean lookup time of > 50 nanoseconds, which is most likely due to the fact that PGM-Index is optimized for large-scale data workloads and exhibits subpar performance because the dataset used in this microbenchmark consists of only 1000 keys.
 
-The results from this research to be a highly interesting study of the worst-case performance behavior of LIS models. The poisoning attack and microbenchmark described here are open-source and can be easily adapted for future research purposes. If you have any further thoughts or ideas, please let me know!
+In the experiments, PGM-Index performs worst with a mean lookup time of > 50 nanoseconds. This is most likely due to the fact that PGM-Index is optimized for large-scale data workloads and exhibits subpar performance in this microbenchmark because the dataset consists of only 1000 keys.
+
+I consider the results from this research to be a highly interesting study of the robustness of learned index structures. The poisoning attack and microbenchmark described in this post are open-source and can be easily adapted for future research purposes. 
+If you have any further thoughts or ideas, please let me know!
