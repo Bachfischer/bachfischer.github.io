@@ -34,7 +34,7 @@ Unfortunately, executing the poisoning attack by Kornaropoulos et al. is heavily
 
 # Implementing a flexible microbenchmark for learned indexes
 
-To test the robustness of learned indexes more rigorously, I have decided to set-up a flexible microbenchmark that can be used to quickly evaluate the robustness of different index implementations against poisoning attacks. The microbenchmark is based on the source code that was published by [Eppert et al.](https://db.in.tum.de/~fent/papers/LogarithmicError.pdf?lang=en) which I have extended to implement the CDF poisoning attack against different types of regression models and the learned index implementations [ALEX](https://github.com/microsoft/ALEX) and [PGM-Index](https://pgm.di.unipi.it/).
+To test the robustness of learned indexes more rigorously, I have set-up a flexible microbenchmark that can be used to quickly evaluate the robustness of different index implementations against poisoning attacks. The microbenchmark is based on the source code that was published by [Eppert et al.](https://db.in.tum.de/~fent/papers/LogarithmicError.pdf?lang=en) which I have extended to implement the CDF poisoning attack against different types of regression models and the learned index implementations [ALEX](https://github.com/microsoft/ALEX) and [PGM-Index](https://pgm.di.unipi.it/).
 
 **The corresponding source code can be found here: [https://github.com/Bachfischer/LogarithmicErrorRegression](https://github.com/Bachfischer/LogarithmicErrorRegression).**
 
@@ -59,7 +59,7 @@ From the graphs, we can observe that simple linear regression (SLR) is particula
 
 The performance of the competitors that optimize a different error function such as LogTE, DLogTE and 2P (introduced in [A Tailored Regression for Learned Indexes](https://db.in.tum.de/~fent/papers/LogarithmicError.pdf?lang=en)) are more robust against adversarial attacks. For these regression models, the mean lookup time remains relatively stable even when the poisoning threshold is increased substantially. 
 
-Because SLR is the de-facto standard in learned index structures and used internally by the ALEX and the PGM-Index implementations, we would expect that these two models also exhibit a relatively high performance deterioration when evaluated on the poisoned dataset. Surprisingly, ALEX does not show any significant performance impact, most likely due to the usage of gapped arrays that allow the model to easily capture outliers in the data (I guess that this effect can be mainly attributed to the small keyset size). The performance of the PGM-Index deteriorates by a factor of up-to 1.3x.
+Because SLR is the de-facto standard in learned index structures and used internally by the ALEX and the PGM-Index implementations, we would expect that these two models also exhibit a relatively high performance deterioration when evaluated on the poisoned dataset. Surprisingly, ALEX does not show any significant performance impact, most likely due to the usage of gapped arrays that allow the model to easily capture outliers in the data (this effect can be likely attributed to the small keyset size). The performance of the PGM-Index deteriorates by a factor of up-to 1.3x.
 
 
 To put things into a broader perspective, I have also calculated the overall mean lookup time for the evaluated learned indexes (averaged across all experiments) in the graph below.
