@@ -44,7 +44,7 @@ To test the robustness of learned indexes more rigorously, I have set-up a flexi
 
 To test the robustness of the learned indexes, I have generated a synthetic dataset of 1000 keys and ran the poisoning attack against each index implementation while varying the poisoning threshold from $p=0.01$ to $p=0.20$. 
 
-The graphs below show the performance deterioration calculated as the ratio between the *mean lookup time in nanoseconds* for the legitimate (non-poisoned) dataset and the poisoned dataset. 
+The graphs below show the performance deterioration calculated as the ratio between the *mean lookup time in nanoseconds* for the poisoned datasets and the legitimate (non-poisoned) dataset. 
 
 SLR                                            | LogTE                                         | DLogTE                                        | 2P
 :---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthias Bachfischer Blog"
 title_separator          : "-"
 name                     : &name "Matthias Bachfischer"
-description              : &description "Graduate Student - Master of Data Science | University of Melbourne"
+description              : &description "Senior IT Architect | BCG Platinion"
 url                      : https://bachfischer.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Bachfischer/bachfischer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthias Bachfischer"
   avatar           : "profile.png"
-  bio              : "Graduate Student - Master of Data Science | University of Melbourne"
+  bio              : "Senior IT Architect | BCG Platinion"
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
