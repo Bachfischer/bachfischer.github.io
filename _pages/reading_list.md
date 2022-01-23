@@ -14,6 +14,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 * **Dom Casmurro** by *Joaquim Maria Machado de Assis*
 > A classic of Brazilian literature that tells the tragic love story between the narrator Betinho and his childhood love Capitu. Truly a wonderful and entertaining read.
+* **Nonviolent Communication: A Language of Life** by *Marshall B. Rosenberg*
+> A great guide to help us discover how the language we use can strengthen our relationships and prevent conflicts. The book contains plenty of stories and examples, which are helpful to understand how to apply nonviolent communication in our daily lives.
 * **La guerra del fin del mundo** by *Mario Vargas Llosa*
 > Fascinating story about the conflict in Canudos (situated in Bahia, Brazil) taking place in the 1890s. Another epic novel by Mario Vargas Llosa, but involving quite a huge number of characters, which can make it a bit confusing at times.
 
