@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **The Rust Programming Language** by *Carol Nichols, Steve Klabnik*
+> Excellent introduction into the Rust programming language and ecosystem around it. I had mostly been interested in understanding the core ideas behind the language and this book was definitely a great help. Clearly written and with many guiding examples.
 * **Dom Casmurro** by *Joaquim Maria Machado de Assis*
 > A classic of Brazilian literature that tells the tragic love story between the narrator Betinho and his childhood love Capitu. Truly a wonderful and entertaining read.
 * **Nonviolent Communication: A Language of Life** by *Marshall B. Rosenberg*
