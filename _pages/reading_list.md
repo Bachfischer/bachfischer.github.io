@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Death and the Penguin** by *Andrey Kurkov*
+> Funny and surreal book by Ukrainian author Andrey Kurkov. The story takes place in late-90s Kyiv and describes the life of the protagonist and his pet - a Penguin. Helps to understand Ukrainian culture and society a bit better and definitely makes appetite for more. Another book from the same author that I would like to read soon is "Grey Bees".
 * **The Rust Programming Language** by *Carol Nichols, Steve Klabnik*
 > Excellent introduction into the Rust programming language and ecosystem around it. I had mostly been interested in understanding the core ideas behind the language and this book was definitely a great help. Clearly written and with many guiding examples.
 * **Dom Casmurro** by *Joaquim Maria Machado de Assis*
