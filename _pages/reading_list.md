@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you** by *Rob Fitzpatrick*
+> Excellent book on how to have customer conversations and frame the discussions in a way that you can derive real insights. The book provides simple and hands-on guidance that should be definitely helpful for every startup entrepenuer.
 * **Death and the Penguin** by *Andrey Kurkov*
 > Funny and surreal book by Ukrainian author Andrey Kurkov. The story takes place in late-90s Kyiv and describes the life of the protagonist and his pet - a Penguin. Helps to understand Ukrainian culture and society a bit better and definitely makes appetite for more. Another book from the same author that I would like to read soon is "Grey Bees".
 * **The Rust Programming Language** by *Carol Nichols, Steve Klabnik*
