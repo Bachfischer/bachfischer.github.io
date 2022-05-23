@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Grey Bees** by *Andrej Kurkov*
+> The latest book from Ukrainian writer Andrej Kurkow. It describes life in the occupied territories of Ukraine and how people manage to cope with the status quo. This novel is by far my favorite book for this year so far.
 * **The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you** by *Rob Fitzpatrick*
 > Excellent book on how to have customer conversations that can help you derive insights on building a better product. The book serves as a simple but practical guide with lessons that every aspiring startup entrepreneur should know.
 * **Death and the Penguin** by *Andrey Kurkov*
