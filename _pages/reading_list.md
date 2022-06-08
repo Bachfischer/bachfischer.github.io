@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Safe Haven: Investing for Financial Storms** by *Mark Spitznagel*
+> In this book, Mark shares his perspective on investment strategies and how to properly mitigate risks and insure an investment portfolio against major losses. Reading and understanding the book requires some basic mathematical expertise, which makes it even more engaging and interesting to read.  
 * **Grey Bees** by *Andrej Kurkov*
 > The latest book from Ukrainian writer Andrej Kurkow. It describes life in the occupied territories of Ukraine and how people manage to cope with the status quo. This novel is by far my favorite book for this year so far.
 * **The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you** by *Rob Fitzpatrick*
