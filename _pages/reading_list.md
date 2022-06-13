@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Penguin Lost** by *Andrej Kurkov*
+> The sequel of the book "Death and the Penguin" (see below). Again a highly entertaining read about Viktor and his quest to rescue his penguin from the Mafia. I love the author's surreal writing style and the insights that he provides on Ukrainian / Kiew culture.
 * **Safe Haven: Investing for Financial Storms** by *Mark Spitznagel*
 > In this book, Mark shares his perspective on investment strategies and how to properly mitigate risks and insure an investment portfolio against major losses. Reading and understanding the book requires some basic mathematical expertise, which makes it even more engaging and interesting to read.  
 * **Grey Bees** by *Andrej Kurkov*
