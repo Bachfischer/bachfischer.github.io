@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **We Are Bellingcat: An Intelligence Agency for the People** by *Eliot Higgins*
+> Very well-written and engaging book. The boys and girls at Bellingcat are doing amazing work in the OSINT space, and it's highly inspiring to read about this.
 * **Penguin Lost** by *Andrej Kurkov*
 > The sequel of the book "Death and the Penguin" (see below). Again a highly entertaining read about Viktor and his quest to rescue his penguin from the Mafia. I love the author's surreal writing style and the insights that he provides on Ukrainian / Kiew culture.
 * **Safe Haven: Investing for Financial Storms** by *Mark Spitznagel*
