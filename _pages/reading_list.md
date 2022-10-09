@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **The Value of a Whale: On the Illusions of Green Capitalism** by *Adrienne Buller*
+> An excellent book that discusses the current trends around "green capitalism" and gives reasons why proposed solutions around carbon offsetting (and similar schemes) are often too narrow to deal with the problems we are facing as part of the current climate crisis.
 * **We Are Bellingcat: An Intelligence Agency for the People** by *Eliot Higgins*
 > Very well-written and engaging book. The boys and girls at Bellingcat are doing amazing work in the OSINT space, and it's highly inspiring to read about this.
 * **Penguin Lost** by *Andrej Kurkov*
