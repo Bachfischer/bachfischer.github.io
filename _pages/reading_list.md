@@ -12,6 +12,10 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Die Kunst des klugen Handelns: 52 Irrwege, die Sie besser anderen überlassen** by *Rolf Dobelli*
+> I can not really recommend this book, as it basically is a recap of thoughts and ideas already presented in the works of Daniel Kahneman ("Thinking fast and slow") and Nassim Taleb ("Black Swan", "Antifragile" etc.). An entertaining read, but you won't learn anything new if you have already some background knowledge.
+* **Calling Bullshit: The Art of Sceptisim in a Data-Driven World** by *Carl T. Bergstrom, Jevin D. West*
+> Helpful resource on how to spot false information that is meant to mislead us. Provides plenty of practical guidance on how common sense can help us navigate the challenges of big data and fake news. 
 * **The Value of a Whale: On the Illusions of Green Capitalism** by *Adrienne Buller*
 > An excellent book that discusses the current trends around "green capitalism" and gives reasons why proposed solutions around carbon offsetting (and similar schemes) are often too narrow to deal with the problems we are facing as part of the current climate crisis.
 * **We Are Bellingcat: An Intelligence Agency for the People** by *Eliot Higgins*
