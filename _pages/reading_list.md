@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **Clean Code in Python - Second Edition** by *Mariano Anaya*
+> Excellent resource for writing clean- and maintainable Python code. Python has it's own, "pythonic" way of achieving certain things, and this book is a great reference that provides an under-the-hood view of the Python programming language and the vast amount of features that it offers.
 * **Die Kunst des klugen Handelns: 52 Irrwege, die Sie besser anderen überlassen** by *Rolf Dobelli*
 > I can not really recommend this book, as it basically is a recap of thoughts and ideas already presented in the works of Daniel Kahneman ("Thinking fast and slow") and Nassim Taleb ("Black Swan", "Antifragile" etc.). An entertaining read, but you won't learn anything new if you have already some background knowledge.
 * **Calling Bullshit: The Art of Sceptisim in a Data-Driven World** by *Carl T. Bergstrom, Jevin D. West*
