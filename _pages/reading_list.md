@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years. Going fo
 
 ## 2022
 
+* **How to Be a Dictator: The Cult of Personality in the Twentieth Century** by *Frank Dikötter*
+> Great study of some of the most influential dictators that ruled the planet during the 20th century (Stalin, Hitler, Mao etc.). Frank Dikötter outlines how they came to power and observes that their rise was often accompanied by a tremendous cult of personality that cemented their power.
 * **Clean Code in Python - Second Edition** by *Mariano Anaya*
 > Excellent resource for writing clean- and maintainable Python code. Python has it's own, "pythonic" way of achieving certain things, and this book is a great reference that provides an under-the-hood view of the Python programming language and the vast amount of features that it offers.
 * **Die Kunst des klugen Handelns: 52 Irrwege, die Sie besser anderen überlassen** by *Rolf Dobelli*
