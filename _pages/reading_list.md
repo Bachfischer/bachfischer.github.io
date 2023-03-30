@@ -8,10 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-This is a list of books that I have read over the last couple of years. Going forward, I will try to add a short summary for each book that I have read.
+This is a list of books that I have read over the last couple of years.
 
 ## 2023
 
+* **The Big Five for Life: Was wirklich zählt im Leben** by *John Strelecky*
+> Superficial guide for living a happy life by following your personal life goals, the "big five for life". The story is easy to follow, but I didn't get too much out of it, to be honest.
 * **The Gates of Europe: A History of Ukraine** by *Serhii Plokhy*
 > A deep dive into the history of Ukraine. The author shows at great length how the modern nation of Ukraine emerged from a lengthy struggle for independence that lasted multiple centuries. The book is sometimes a bit too detailed (at least for my taste), but definitely worth a read, especially to understand the propaganda of the Russian invasion.
 
