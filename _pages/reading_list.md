@@ -12,6 +12,8 @@ This is a list of books that I have read over the last couple of years.
 
 ## 2023
 
+* **Haben oder Sein: Die seelischen Grundlagen einer neuen Gesellschaft** by *Erich Fromm*
+> The second time I have read this book, and despite its age I would still consider it highly relevant for a critical reflection of our human society and what we strive for in life. It consists of three main parts, out of which the first two give an introduction to Fromm's world of thought, while the third part proposes a couple of ideas for improvement (which at least to me appear to be a bit outdated). Still, an extremely worthwhile read that I would recommend to everyone!
 * **The Big Five for Life: Was wirklich zählt im Leben** by *John Strelecky*
 > Superficial guide for living a happy life by following your personal life goals, the "big five for life". The story is easy to follow, but I didn't get too much out of it, to be honest.
 * **The Gates of Europe: A History of Ukraine** by *Serhii Plokhy*
