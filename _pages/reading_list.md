@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a list of books that I have read over the last couple of years.
+A short paragraph about the books I read. Books are like wine, you like it or not.
 
 ## 2023
 
