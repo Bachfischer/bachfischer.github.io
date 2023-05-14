@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2023
 
+* **Brief Answers to the Big Questions** by *Stephen Hawking*
+> This book is a collection of Stephen Hawking's contemporary writings on a variety of topics, such as "What is inside a black hole?" or "Is time travel possible?". I enjoyed reading this book, particularly due to the ingenious and entertaining way that Hawking uses to give his answers.
 * **Haben oder Sein: Die seelischen Grundlagen einer neuen Gesellschaft** by *Erich Fromm*
 > The second time I have read this book, and despite its age I would still consider it highly relevant for a critical reflection of our human society and what we strive for in life. It consists of three main parts, out of which the first two give an introduction to Fromm's world of thought, while the third part proposes a couple of ideas for improvement (which at least to me appear to be a bit outdated). Still, an extremely worthwhile read that I would recommend to everyone!
 * **The Big Five for Life: Was wirklich zählt im Leben** by *John Strelecky*
