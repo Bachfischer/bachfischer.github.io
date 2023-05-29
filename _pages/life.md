@@ -15,9 +15,10 @@ I enjoy all kinds of outdoor sports, in particular trail running, mountain bikin
 
 ### Competitions
 
-* **June 2019: Mayerhofen Ultraks 50k** (8:22h)
+* **May 2023: Regensburg Marathon 42** (3:34h)
+* **May 2022: Regensburg Halbmarathon 21k** (1:33h)
 * **October 2019: München Marathon 42k** (3:29h)
-* **May 2022: Regensburg Marathon 21k** (1:33h)
+* **June 2019: Mayerhofen Ultraks 50k** (8:22h)
 
 ## Podcasts
 
