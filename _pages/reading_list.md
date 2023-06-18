@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2023
 
+* **Dining with al-Qaeda: Three Decades Exploring the Many Worlds of the Middle East** by *Hugh Pope*
+> An extraordinary account of the adventures undertaken by the author, a Wall Street Journal veteran, who, during his 30-year reporting career, wrote inspiring stories of the culture and people that dominate the Middle East. Having explored a few of those places myself, I can deeply relate and heavily enjoyed reading each of the chapters (almost every chapter plays in a different region of the Middle East).
 * **Brief Answers to the Big Questions** by *Stephen Hawking*
 > This book is a collection of Stephen Hawking's contemporary writings on a variety of topics, such as "What is inside a black hole?" or "Is time travel possible?". I enjoyed reading this book, particularly due to the ingenious and entertaining way that Hawking uses to give his answers.
 * **Haben oder Sein: Die seelischen Grundlagen einer neuen Gesellschaft** by *Erich Fromm*
