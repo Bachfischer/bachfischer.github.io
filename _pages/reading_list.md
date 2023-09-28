@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2023
 
+* **Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions** by *John Kotter*
+> A classic for change management, written in the style of a novel. The book brings across many practical and easy to digest tips, would recommend.
 * **Dining with al-Qaeda: Three Decades Exploring the Many Worlds of the Middle East** by *Hugh Pope*
 > An extraordinary account of the adventures undertaken by the author, a Wall Street Journal veteran, who, during his 30-year reporting career, wrote inspiring stories of the culture and people that dominate the Middle East. Having explored a few of those places myself, I can deeply relate and heavily enjoyed reading each of the chapters (almost every chapter plays in a different region of the Middle East).
 * **Brief Answers to the Big Questions** by *Stephen Hawking*
