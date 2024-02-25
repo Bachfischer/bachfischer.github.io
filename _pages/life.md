@@ -24,6 +24,7 @@ I enjoy all kinds of outdoor sports, in particular trail running, mountain bikin
 
 Below is a list of Podcasts that I enjoy listening to and which I thought others might find useful:
 
+* **Latent Space: The AI Engineer Podcast** Launched only in 2023, Latent Space is a technical newsletter / podcast that goes extremely deep into the business / tech topics of the AI industry ([Link](https://www.latent.space/about))
 * **The TWIML AI Podcast** A great podcast that publishes interesting stories and latest developments in the area of machine learning and AI ([Link](https://twimlai.com))
 * **Risky Business** Weekly update on news in the Information Security industry ([Link](https://risky.biz))
 * **Xadrez Verbal**  A bi-weekly podcast in Portuguese that covers politics, history and news in general ([Link](https://xadrezverbal.com))

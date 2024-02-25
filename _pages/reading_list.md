@@ -10,6 +10,11 @@ redirect_from:
 
 A short paragraph about the books I read. Books are like wine, you like it or not.
 
+## 2024
+
+* **Radical Candor** by *Kim Scott*
+> A handbook for everyone who is looking to build meaningful relationships at work. The book focuses on the many dimensions of leaedership, and especially how create a culture of open, yet direct feedback with your teams. 
+
 ## 2023
 
 * **Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions** by *John Kotter*
