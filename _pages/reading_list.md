@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2024
 
+* **The Five Dysfunctions of a Team** by *Patrick Lencioni*
+> An entertaining fable about how to build and develop highly-functioning teams. The book can serve as a playbook for "what to get right" when it comes to trust, accountability and joint commitment to results.
 * **Radical Candor** by *Kim Scott*
 > A handbook for everyone who is looking to build meaningful relationships at work. The book focuses on the many dimensions of leaedership, and especially how create a culture of open, yet direct feedback with your teams. 
 
