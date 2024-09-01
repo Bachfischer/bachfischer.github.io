@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthias Bachfischer Blog"
 title_separator          : "-"
 name                     : &name "Matthias Bachfischer"
-description              : &description "Senior IT Architect | BCG Platinion"
+description              : &description "Senior AI Solution Architect | E.ON"
 url                      : https://bachfischer.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Bachfischer/bachfischer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthias Bachfischer"
   avatar           : "profile.png"
-  bio              : "Senior IT Architect | BCG Platinion"
+  bio              : "Senior AI Solution Architect | E.ON"
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
