@@ -12,12 +12,14 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2024
 
+* **Leaders eat last** by *Simon Sinek*
+> A practical guide on how to foster trust and build a safe and inclusive culture at work. I received this book as a gift from a friend and found it to be a really inspiring read. Pretty sure that I will get back to some chapters in this book on a regular basis.
 * **Modern Wisdom, Ancient Roots** by *Srikumar S. Rao*
 > A collection of short life lessons that can help you develop mental models for success and happiness in life. Very well-written and inspiring read, and some of the stories that Srikumar is narrating in his book have encouraged me to reflect quite deeply.
 * **The Five Dysfunctions of a Team** by *Patrick Lencioni*
 > An entertaining fable about how to build and develop highly-functioning teams. The book can serve as a playbook for "what to get right" when it comes to trust, accountability and joint commitment to results.
 * **Radical Candor** by *Kim Scott*
-> A handbook for everyone who is looking to build meaningful relationships at work. The book focuses on the many dimensions of leaedership, and especially how create a culture of open, yet direct feedback with your teams. 
+> A handbook for everyone who is looking to build meaningful relationships at work. The book focuses on the many dimensions of leadership, and especially how create a culture of open, yet direct feedback with your teams. 
 
 ## 2023
 
