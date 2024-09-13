@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matthias Bachfischer and I'm a Senior AI Solution Architect at [E.ON](https://www.eon.com/). My expertise is in building highly scalable architectures for machine learning and analytics services as well as the teams and culture around that.
+My name is Matthias Bachfischer and I'm a Senior AI Solution Architect at [E.ON Digital Technology](https://www.eon.com/). My expertise is in building highly scalable architectures for machine learning and analytics services as well as the teams and culture around that.
 
 
 I hold a M.Sc. degree in Data Science from [The University of Melbourne](https://www.unimelb.edu.au) and a B.Sc. degree in Business Information Technology from [OTH Regensburg](https://www.oth-regensburg.de/).
