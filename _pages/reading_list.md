@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2024
 
+* **Factfulness** by *Hans Rosling*
+> Insightful perspectives into global medical advancements and the rise in prosperity worldwide. The author introduces a four-staged maturity level framework for global development (instead of the oversimplified "developing/developed" dichotomy) and uses this to communicate both advancements and challenges across nations. Key takeaway is that humanity has achieved dramatic net improvements over recent centuries, despite our overly negative worldview about global development.
 * **Race Against the Machine** by *Erik Brynjolfsson, Andrew McAfee"
 > A quick read that explores the impact of technology on (un-)employment. It was written in 2011 and primarily focuses on the global financial crisis, but we can observe a similar trend with the current AI hype. It is less than 100 pages, so I can highly recommend if you happen to be interested in these topics.
 * **Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis** by *Scott Patterson*
