@@ -15,6 +15,6 @@ My expertise is in building highly scalable architectures for machine learning a
 I hold a M.Sc. degree in Data Science from [The University of Melbourne](https://www.unimelb.edu.au) and a B.Sc. degree in Business Information Technology from [OTH Regensburg](https://www.oth-regensburg.de/).
 
 
-My research interests lie in applied statistics and machine learning, and I'm particularly passionate about the applications of AI in real-world problems. During my stay at [KAUST](https://www.kaust.edu.sa/) in the [Laboratory Machine Intelligence and kNowledge Engineering](https://cemse.kaust.edu.sa/mine), I worked on text classification of German-language tweets using deep learning classifiers.  
+My research interests lie in (adversarial) machine learning and the application of AI to solve real-world problems. During my stay at [KAUST](https://www.kaust.edu.sa/) in the [Laboratory Machine Intelligence and kNowledge Engineering](https://cemse.kaust.edu.sa/mine), I worked on text classification of German-language tweets using deep learning classifiers.  
 
 In this blog, I would like to share insights from current and past projects.
