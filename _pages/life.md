@@ -44,7 +44,7 @@ This map gives an overview of the countries that I have visited (48 countries so
   <script src="/files/jquery-jvectormap-2.0.5.min.js"></script>
   <script src="/files/jquery-jvectormap-world-mill.js"></script>
 
-  <div id="map" style="min-width: 600px; min-height: 400px; display: inline-block"></div>
+  <div id="map" style="width: 600px; height: 400px"></div>
 
 <script type="text/javascript" src="/files/travel_map.js"></script>
 
