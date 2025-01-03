@@ -36,7 +36,7 @@ I have been running my own VPN server for multiple years now. [Algo](https://git
 
 ## Travel Map
 
-This map gives an overview of the countries that I have visited (46 countries so far!):
+This map gives an overview of the countries that I have visited (48 countries so far!):
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
@@ -44,7 +44,7 @@ This map gives an overview of the countries that I have visited (46 countries so
   <script src="/files/jquery-jvectormap-2.0.5.min.js"></script>
   <script src="/files/jquery-jvectormap-world-mill.js"></script>
 
-  <div id="map" style="width: 600px; height: 400px"></div>
+  <div id="map" style="min-width: 600px; min-height: 400px; display: inline-block"></div>
 
 <script type="text/javascript" src="/files/travel_map.js"></script>
 
