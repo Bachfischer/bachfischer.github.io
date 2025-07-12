@@ -10,6 +10,11 @@ redirect_from:
 
 A short paragraph about the books I read. Books are like wine, you like it or not.
 
+## 2025
+
+* **La Fiesta del Chivo** by *Mario Vargas Llosa*
+> An interesting novel about the assassination of Dominican dictator Rafael Trujillo, told through the perspectives of three characters connected to the event. It offers insight into life under Trujillo’s regime and the devastating impact of his rule. Took me quite a while to finish this book.
+
 ## 2024
 
 * **Factfulness** by *Hans Rosling*
