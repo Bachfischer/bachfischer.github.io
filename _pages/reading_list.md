@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **Sicherheit und Risiko in Fels und Eis: Band 1** by *Pit Schubert*
+> Despite the serious topic, the book is engaging and accessible. It offers a clear overview of what can go wrong in the mountains. I hope this helps me recognize and avoid errors during my own climbs as well. Big thanks to Lukas for the recommendation! 
 * **La Fiesta del Chivo** by *Mario Vargas Llosa*
 > An interesting novel about the assassination of Dominican dictator Rafael Trujillo, told through the perspectives of three characters connected to the event. It offers insight into life under Trujillo’s regime and the devastating impact of his rule. Took me quite a while to finish this book.
 
