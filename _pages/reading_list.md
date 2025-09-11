@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **Focus: The ASML Way** by *Marc Hijink*
+> Fascinating account of ASML's rise, from the early experiments, ambitious bets on extreme ultraviolet lithography systems and the relentless focus required to industrialize these complex machines at scale. The book offers interesting insights into how ASML propelled itself to market leader position that is at the heart of the modern chip supply chain. Many thanks to Sam for gifting me this book!
 * **Sicherheit und Risiko in Fels und Eis: Band 1** by *Pit Schubert*
 > Despite the serious topic, the book is engaging and accessible. It offers a clear overview of what can go wrong in the mountains. I hope this helps me recognize and avoid errors during my own climbs as well. Big thanks to Lukas for the recommendation! 
 * **La Fiesta del Chivo** by *Mario Vargas Llosa*
