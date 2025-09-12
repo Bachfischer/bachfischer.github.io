@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matthias Bachfischer and I'm a Senior AI Solution Architect at [E.ON Digital Technology](https://www.eon.com/). Previously, I worked as a Senior IT Architect at [BCG Platinion](https://www.bcgplatinion.com/) and a Senior Data Scientist at [IBM](https://www.ibm.com/us-en).
-My expertise is in building highly scalable architectures for machine learning and analytics services as well as the teams and culture around that.
+My name is Matthias Bachfischer and I'm a Principal Solution Architect for Data & AI at [E.ON Digital Technology](https://www.eon.com/). Previously, I worked as a Senior IT Architect at [BCG Platinion](https://www.bcgplatinion.com/) and a Senior Data Scientist at [IBM](https://www.ibm.com/us-en).
+My expertise is in building highly scalable architectures for machine learning and artificial intelligence applications as well as the teams and culture around that.
 
 
 I hold a M.Sc. degree in Data Science from [The University of Melbourne](https://www.unimelb.edu.au) and a B.Sc. degree in Business Information Technology from [OTH Regensburg](https://www.oth-regensburg.de/).
