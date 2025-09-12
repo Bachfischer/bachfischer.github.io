@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **The Basic Laws of Human Stupidity** by *Carlo M. Cipolla*
+> Straightforward and easy to grasp. Human behavior (stupidity) visualized in a 2x2 matrix. If you ever wondered about what is going on around you, this book may shed some light.  
 * **Focus: The ASML Way** by *Marc Hijink*
 > Fascinating account of ASML's rise, from the early experiments, ambitious bets on extreme ultraviolet lithography systems and the relentless focus required to industrialize these complex machines at scale. The book offers interesting insights into how ASML propelled itself to market leader position that is at the heart of the modern chip supply chain. Many thanks to Sam for gifting me this book!
 * **Sicherheit und Risiko in Fels und Eis: Band 1** by *Pit Schubert*
