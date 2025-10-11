@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **Nexus** by *Yuval Noah Harari*
+> Harari’s latest book explores the evolution of human information networks. While thoroughly researched, I found the book to offer very few fresh insights. Especially when compared to Sapiens and Homo Deus, this book feels rather superficial and lacking novel insights and ideas.
 * **The Basic Laws of Human Stupidity** by *Carlo M. Cipolla*
 > Straightforward and easy to grasp. Human behavior (stupidity) visualized in a 2x2 matrix. If you ever wondered about what is going on around you, this book may shed some light.  
 * **Focus: The ASML Way** by *Marc Hijink*
