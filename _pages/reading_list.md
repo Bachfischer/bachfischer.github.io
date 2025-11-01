@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **Getting Along: How to Work with Anyone (Even Difficult People)** by *Amy Gallo*
+> You don't have to agree to get along. All you need is a path forward, not a shared worldview. This principle lies at the heart of "Getting Along", a practical guide on managing difficult relationships at work. Some sections felt a bit superficial, but overall I found the book well structured and filled with helpful advice on how to navigate challenging workplace dynamics.
 * **Nexus** by *Yuval Noah Harari*
 > Harari’s latest book explores the evolution of human information networks. While thoroughly researched, I found the book to offer very few fresh insights. Especially when compared to Sapiens and Homo Deus, this book feels rather superficial and lacking novel insights and ideas.
 * **The Basic Laws of Human Stupidity** by *Carlo M. Cipolla*
