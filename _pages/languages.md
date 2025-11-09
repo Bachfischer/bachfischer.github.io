@@ -52,18 +52,15 @@ Learning Arabic is a  project that I have been pursuing for a rather long time n
 * News: Al-Jazeera ([Link](http://www.aljazeera.net/portal))
 
 ## 6. Russian
-I've started Russian fairly recently in July 2020. I'm learning it with my girlfriend (who is a native speaker) and we are using a book called "РУССКИЙ ЯЗЫК КАК ИНОСТРАННЫЙ. НАЧАЛЬНЫЙ КУРС". Even though our learning sessions are rather infrequent, it's still great fun and I'm looking forward to be able to communicate with her relatives in their own native language!
+I've started Russian fairly recently in July 2020. I'm learning it with my ~~girlfriend~~ ex-girlfriend (who is a native speaker) and we are using a book called "РУССКИЙ ЯЗЫК КАК ИНОСТРАННЫЙ. НАЧАЛЬНЫЙ КУРС". Even though our learning sessions are rather infrequent, it's still great fun and I'm looking forward to be able to communicate with her relatives in their own native language!
 
-**Language Resources:**
-* Coming soon (once I master the language a bit more...)
+**Update:** I have not been learning Russian ever since the Russian invasion of Ukraine, and I have no plans of picking it up again..
 
 ## 7. Chinese
 
 Chinese is the language that I have started most recently with a language course at [LSI Bochum](https://www.lsi-bochum.de).
 
-Aside from the signs (fluency in Chinese requires learning > 4000 signs), the language has an additional difficulty: tones. The difference between mā (mother) and mǎ (horse) is just the direction of your voice (flat vs fall-rise). A good way to study this is through the [Duolingo](https://duolingo.com) app.
-
-A phonetic table can also be extremely helpful if you want to play around with sounds and train yourself to hear the difference.
+Aside from the signs (fluency in Chinese requires learning > 4000 signs), the language has an additional difficulty: tones. The difference between mā (mother) and mǎ (horse) is just the direction of your voice (flat vs fall-rise). A good way to study this is through the [Duolingo](https://duolingo.com) app. A phonetic table can also be extremely helpful if you want to play around with sounds and train yourself to hear the difference.
 
 At the moment, I'm learning around 2-3 new signs every day (sort of a morning ritual) and would like to follow-up with a language course in Chinese for CEFR level A2 soon.
 
