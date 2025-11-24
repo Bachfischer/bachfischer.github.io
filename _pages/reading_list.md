@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2025
 
+* **Team Topologies: Organizing Business and Technology Teams for Fast Flow** by *Matthew Skelton, Manuel Pais*
+> A clear guide to structuring software teams for maximum effectiveness. The authors center the book around four core team topologies: stream-aligned, enabling, complicated-subsystem, and platform teams, along with three interaction modes: collaboration, X-as-a-service, and facilitating. The concepts are well explained, though the narrative feels a bit repetitive at times.
 * **Getting Along: How to Work with Anyone (Even Difficult People)** by *Amy Gallo*
 > You don't have to agree to get along. All you need is a path forward, not a shared worldview. This principle lies at the heart of "Getting Along", a practical guide on managing difficult relationships at work. Some sections felt a bit superficial, but overall I found the book well structured and filled with helpful advice on how to navigate challenging workplace dynamics.
 * **Nexus** by *Yuval Noah Harari*
