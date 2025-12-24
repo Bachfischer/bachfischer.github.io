@@ -14,7 +14,7 @@ This is a collection of thoughts and advice on a wide range of topics, updated w
 I enjoy all kinds of outdoor sports, in particular trail running, mountain biking and ski mountaineering. There are a few books that I can highly recommend if you're into mountaineering:
 
 * [3x3 Lawinen: Risikomanagement im Wintersport](https://www.amazon.de/dp/8870737756/ref=cm_sw_em_r_mt_dp_NWD2DD2FWHCRGASFS4K6) (German only)
-* [Sicherheit und Risiko in Fels und Eis](https://www.amazon.de/Sicherheit-Risiko-Fels-Eis-Lehrschriften/dp/3763360166) (Germany only)
+* [Sicherheit und Risiko in Fels und Eis](https://www.amazon.de/Sicherheit-Risiko-Fels-Eis-Lehrschriften/dp/3763360166) (German only)
 
 If your winter home base is in the Austrian, Italian, or German Alps, I can also highly recommend the annual [Lawinenupdate](https://www.alpenverein.at/portal/bergsport/sicheramberg/lawinenupdate/index.php) by the Austrian Alpine Club.
 
