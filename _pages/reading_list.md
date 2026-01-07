@@ -10,6 +10,11 @@ redirect_from:
 
 A short paragraph about the books I read. Books are like wine, you like it or not.
 
+## 2026
+
+* **The Geek Way** by *Andrew McAfee*
+> I bought this book because I wanted to understand how 20th-century tech companies create and nurture a culture of growth and competitiveness. McAfee presents several interesting ideas, such as encouraging bottom-up decision-making and forming small, independent teams with the mandate to execute on their mission. Much of the content / many of the case studies were already known to me, but the book was written in a way that still made it entertaining to read.
+
 ## 2025
 
 * **Implementing Data Mesh** by *Jean-Georges Perrin, Eric Broda*
