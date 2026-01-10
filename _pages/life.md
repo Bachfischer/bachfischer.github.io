@@ -43,7 +43,7 @@ I have been running my own VPN server for multiple years now. [Algo](https://git
 
 ## Travel Map
 
-This map gives an overview of the countries that I have visited (48 countries so far!):
+This map gives an overview of the countries that I have visited (49 countries so far!):
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
