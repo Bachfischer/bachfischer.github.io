@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2026
 
+* **El Arte de Amar** by *Erich Fromm*
+> I picked-up this book to better understand the relationships dynamics I have observed throughout my life. Several chapters were genuinely eye-opening, in a sense they shifted how I see myself and the people around me. I am sure that I will revisit this book from time to time, in particular to make sense of any new perspectives that life brings. Thanks Fernanda for sharing this recommendation with me!
 * **The Geek Way** by *Andrew McAfee*
 > I bought this book because I wanted to understand how 20th-century tech companies create and nurture a culture of growth and competitiveness. McAfee presents several interesting ideas, such as encouraging bottom-up decision-making and forming small, independent teams with the mandate to execute on their mission. Much of the content / many of the case studies were already known to me, but the book was written in a way that still made it entertaining to read.
 
