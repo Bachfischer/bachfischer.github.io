@@ -14,6 +14,10 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 * **El Arte de Amar** by *Erich Fromm*
 > I picked-up this book to better understand the relationships dynamics I have observed throughout my life. Several chapters were genuinely eye-opening, in a sense they shifted how I see myself and the people around me. I am sure that I will revisit this book from time to time, in particular to make sense of any new perspectives that life brings. Thanks Fernanda for sharing this recommendation with me!
+* **The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World** by *Max Fisher*
+> A detailed account of the massive neglect shown by social media companies. I already knew some (if not most) of the stories described in the book, but it was fascinating to see them assembled so concisely in one place. The recount shows clearly that social media companies are driven by their own goals, and are willing to incur adverse effects.
+* **All In: How Great Leaders Build Unstoppable Teams** by *Mike Michalowicz*
+> My girlfriend gifted me this book because it had served her well in the past, and I read it to be more mindful of my own role as a leader. I could identify with some of the stories and recommendations, though not all of them. What stuck with me most was the emphasis on building personal connections, along with the concrete steps such as e.g., designing a new joiner's first day to have a lasting impact.
 * **The Geek Way** by *Andrew McAfee*
 > I bought this book because I wanted to understand how 20th-century tech companies create and nurture a culture of growth and competitiveness. McAfee presents several interesting ideas, such as encouraging bottom-up decision-making and forming small, independent teams with the mandate to execute on their mission. Much of the content / many of the case studies were already known to me, but the book was written in a way that still made it entertaining to read.
 
