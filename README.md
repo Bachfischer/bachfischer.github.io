@@ -1,31 +1,109 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# bachfischer.me
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Source for [Matthias Bachfischer’s personal website and blog](https://bachfischer.me), covering Data & AI projects, research, professional experience, books, languages, and life outside work.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Built with **Jekyll**, Markdown, Liquid templates, and Sass, using the Academic Pages template derived from Minimal Mistakes. The site is deployed through **GitHub Pages** from the `master` branch, with the custom domain configured in [CNAME](CNAME).
 
-# Instructions
+## Site content
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| Section | Source |
+| --- | --- |
+| About / homepage | [_pages/about.md](_pages/about.md) |
+| Blog | [_posts/](_posts/) · [_pages/year-archive.html](_pages/year-archive.html) |
+| Publications | [_publications/](_publications/) · [_pages/publications.md](_pages/publications.md) |
+| CV | [_pages/cv.md](_pages/cv.md) · [PDF](files/CV_Matthias_Bachfischer.pdf) |
+| Reading list | [_pages/reading_list.md](_pages/reading_list.md) |
+| Languages and language map | [_pages/languages.md](_pages/languages.md) · [map data](files/language_map.js) |
+| Life, sports, and travel map | [_pages/life.md](_pages/life.md) · [map data](files/travel_map.js) |
 
-See more info at https://academicpages.github.io/
+The main navigation is defined in [_data/navigation.yml](_data/navigation.yml). Additional archive and template pages are retained in `_pages/`.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Run locally
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Install Git, Ruby, and Bundler. The Ruby dependencies are defined in [Gemfile](Gemfile) and pinned in [Gemfile.lock](Gemfile.lock), which records Bundler **2.2.33**. The repository does not pin a Ruby version; use a Ruby environment compatible with the locked dependencies.
 
-# Changelog -- bugfixes and enhancements
+```bash
+git clone https://github.com/Bachfischer/bachfischer.github.io.git
+cd bachfischer.github.io
+bundle install
+bundle exec jekyll serve --config _config.dev.yml
+```
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Open [http://localhost:4000](http://localhost:4000). The development configuration sets the site URL to localhost. It is a separate configuration file, so keep shared settings aligned with `_config.yml` when changing them.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+For automatic browser refresh, the Gemfile includes Hawkins:
+
+```bash
+bundle exec jekyll liveserve --config _config.dev.yml
+```
+
+Restart the server after changing a configuration file. Preserve the lockfile during routine setup; dependency upgrades should be deliberate and reviewed.
+
+## Edit content
+
+### Pages and navigation
+
+Edit Markdown or HTML in `_pages/`. YAML front matter controls each page’s title, layout, and `permalink`. Add or update navigation entries in `_data/navigation.yml` when a page should appear in the menu.
+
+Site-wide metadata, author details, collection settings, and defaults live in [_config.yml](_config.yml).
+
+### Blog posts
+
+Create a file in `_posts/` named `YYYY-MM-DD-title.md`, for example:
+
+```markdown
+---
+title: "My new post"
+date: 2026-09-14
+categories:
+  - ai
+---
+
+Post content goes here.
+```
+
+Posts inherit the `single` layout and author profile from the site configuration. The configured URL pattern is `/:categories/:title/`; preserve existing URLs when editing published content. Some existing posts are HTML exports from notebooks.
+
+### Publications and downloads
+
+Add publication entries to `_publications/`, following an existing entry’s front matter, including `title`, `collection: publications`, `permalink`, `date`, `venue`, and `citation`.
+
+Store images in `images/` and downloadable files in `files/`. A file such as `files/example.pdf` is served at `/files/example.pdf`. Optional Python and Jupyter helpers in [markdown_generator/](markdown_generator/) generate publication and talk entries; they are not required for normal site builds.
+
+## Theme and JavaScript
+
+| Path | Purpose |
+| --- | --- |
+| `_layouts/` | Page layouts |
+| `_includes/` | Reusable Liquid and HTML fragments |
+| `_sass/` and `assets/css/` | Theme styles |
+| `assets/js/_main.js`, `assets/js/plugins/`, `assets/js/vendor/` | Theme JavaScript sources |
+| `assets/js/main.min.js` | Committed JavaScript bundle |
+| `_site/` | Generated site output; do not edit by hand |
+
+Node.js and npm are only needed when rebuilding the theme JavaScript. After changing the bundled JavaScript sources:
+
+```bash
+npm install
+npm run build:js
+```
+
+Commit the updated source files and `assets/js/main.min.js`. Use `npm run watch:js` while developing. The npm scripts build the theme bundle; they do not build the Jekyll site or bundle the separate map scripts in `files/`.
+
+## Validation and deployment
+
+Before publishing, build the site with the production configuration:
+
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+Preview changes locally and check affected pages, navigation, images, downloads, and mobile layout. The repository currently has no automated test suite, lint configuration, pre-commit hooks, or custom GitHub Actions workflow.
+
+Changes pushed or merged into `master` are published through GitHub Pages. Check the repository’s Pages deployment status after publishing. Keep `CNAME` set to `bachfischer.me`, and retain the production `url` and empty `baseurl` in `_config.yml`. Generated `_site/` output is not the source to edit or commit.
+
+## Credits and license
+
+Based on [Academic Pages](https://github.com/academicpages/academicpages.github.io), adapted by Stuart Geiger from [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
+
+The repository includes the [MIT license](LICENSE), with the original theme copyright notice.
