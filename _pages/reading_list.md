@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2026
 
+* **The Song of the Cell: An Exploration of Medicine and the New Human** by *Siddhartha Mukherjee*
+> The second book I read from  Mukherjee, after reading "The Emperor of All Maladies" a few years ago. Again, as with the previous book, I highly enjoyed the mix between storytelling, hard medical science and historical background. Impressive to learn about how life emerges from individual cells, and to see the progress that medicine has made in treating diseases with the help of cell therapies.
 * **El Arte de Amar** by *Erich Fromm*
 > I picked-up this book to better understand the relationships dynamics I have observed throughout my life. Several chapters were genuinely eye-opening, in a sense they shifted how I see myself and the people around me. I am sure that I will revisit this book from time to time, in particular to make sense of any new perspectives that life brings. Thanks Fernanda for sharing this recommendation with me!
 * **The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World** by *Max Fisher*
