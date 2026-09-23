@@ -10,6 +10,7 @@ Built with **Jekyll**, Markdown, Liquid templates, and Sass, using the Academic 
 | --- | --- |
 | About / homepage | [_pages/about.md](_pages/about.md) |
 | Blog | [_posts/](_posts/) · [_pages/year-archive.html](_pages/year-archive.html) |
+| Projects | [_pages/projects.md](_pages/projects.md) · [_pages/running-route-finder.html](_pages/running-route-finder.html) |
 | Publications | [_publications/](_publications/) · [_pages/publications.md](_pages/publications.md) |
 | CV | [_pages/cv.md](_pages/cv.md) · [PDF](files/CV_Matthias_Bachfischer.pdf) |
 | Reading list | [_pages/reading_list.md](_pages/reading_list.md) |
@@ -17,6 +18,8 @@ Built with **Jekyll**, Markdown, Liquid templates, and Sass, using the Academic 
 | Life, sports, and travel map | [_pages/life.md](_pages/life.md) · [map data](files/travel_map.js) |
 
 The main navigation is defined in [_data/navigation.yml](_data/navigation.yml). Additional archive and template pages are retained in `_pages/`.
+
+The running route finder is hosted independently at [run.bachfischer.me](https://run.bachfischer.me/) and embedded on the project page. Its routing service and deployment are managed by the separate app; this Jekyll site provides the native entry point and full-screen link.
 
 ## Run locally
 
