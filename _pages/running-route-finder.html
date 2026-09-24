@@ -37,14 +37,12 @@ excerpt: "Find a running loop and download a GPX route without a Strava subscrip
     display: block;
     width: 100%;
     height: 780px;
-    border: 1px solid #dfe2e3;
-    border-radius: 10px;
-    box-shadow: 0 16px 48px rgba(32, 43, 48, 0.08);
+    border: 0;
     background: #fff;
   }
   @media (max-width: 600px) {
     #main.project-app { padding-left: 0.75rem; padding-right: 0.75rem; }
-    .project-app__frame { height: 1100px; border-radius: 6px; }
+    .project-app__frame { height: 1100px; }
   }
 </style>
 
@@ -73,7 +71,9 @@ excerpt: "Find a running loop and download a GPX route without a Strava subscrip
       if (!event.data || event.data.type !== 'running-route-finder:resize') return;
       var height = event.data.height;
       if (!Number.isFinite(height) || height < 300 || height > 10000) return;
-      frame.style.height = Math.ceil(height) + 'px';
+      // Leave room for fractional pixels so the embedded document never gains
+      // its own scrollbar after browser zoom or font rendering changes.
+      frame.style.height = (Math.ceil(height) + 6) + 'px';
     });
   }());
 </script>
