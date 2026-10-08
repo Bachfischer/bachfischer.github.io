@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2026
 
+* **The Psychology of Software Teams** by *Cat Hicks*
+> An insightful look into the inner world of software engineers and what it takes for engineering teams to excel. What stuck with me most were the descriptions of the insecurities and fears inherent to the engineering profession. Overall, I found the book to be a great reminder to reflect on the type of work we do now (vs. what may have once given us joy), instead of just focusing on what gives us the highest reward. And this is a lesson that goes far beyond engineering.
 * **The Song of the Cell: An Exploration of Medicine and the New Human** by *Siddhartha Mukherjee*
 > The second book I read from  Mukherjee, after reading "The Emperor of All Maladies" a few years ago. Again, as with the previous book, I highly enjoyed the mix between storytelling, hard medical science and historical background. Impressive to learn about how life emerges from individual cells, and to see the progress that medicine has made in treating diseases with the help of cell therapies.
 * **El Arte de Amar** by *Erich Fromm*
