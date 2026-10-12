@@ -12,6 +12,8 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 
 ## 2026
 
+* **Un verdor terrible** by *Benjamín Labatut*
+> I read this book in two days while on vacation and couldn't put it down. It is composed of five chapters, each detailing a fascinating aspect of modern chemistry and physics. Some parts seem to be based on real events, while for others the author took more liberty. Overall a truly fascinating read that I can highly recommend.
 * **The Psychology of Software Teams** by *Cat Hicks*
 > An insightful look into the inner world of software engineers and what it takes for engineering teams to excel. What stuck with me most were the descriptions of the insecurities and fears inherent to the engineering profession. Overall, I found the book to be a great reminder to reflect on the type of work we do now (vs. what may have once given us joy), instead of just focusing on what gives us the highest reward. And this is a lesson that goes far beyond engineering.
 * **The Song of the Cell: An Exploration of Medicine and the New Human** by *Siddhartha Mukherjee*
