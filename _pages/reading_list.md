@@ -13,7 +13,7 @@ A short paragraph about the books I read. Books are like wine, you like it or no
 ## 2026
 
 * **Nonviolent Communication: A Language of Life** by *Marshall B. Rosenberg*
-> A great read on what it takes to communicate in an empathic way. I first read this book quite some time ago, and coming back to it was a great recap.
+> A great read on what it takes to communicate in an empathic way. I first read this book quite some time ago, and coming back to it was a great recap. I don't agree with all parts of it (or with the extent to which the author recommends practicing nonviolent communication), but I definitely find it a helpful technique to use when it fits.
 * **Un verdor terrible** by *Benjamín Labatut*
 > I read this book in two days while on vacation and couldn't put it down. It is composed of five chapters, each detailing a fascinating aspect of modern chemistry and physics. Some parts seem to be based on real events, while for others the author took more liberty. Overall a truly fascinating read that I can highly recommend.
 * **The Psychology of Software Teams** by *Cat Hicks*
